@@ -40,9 +40,9 @@ The system integrates **tables, molecular diagrams, enzyme sequences, and experi
 </table>
 <img width="1912" height="682" alt="2025-09-05 21 25 18" src="https://github.com/user-attachments/assets/8e094f2d-1489-4eb3-abee-532c6f641cc9" />
 
-## 📂 Repository Structure
 
 
+<!-- ## 📂 Repository Structure -->
 
 ## ⚡ Quick Start
 You can explore **ERExtractor** directly through our online platform:  
@@ -59,8 +59,8 @@ Ryan（CAS）
 📧 ryan5zh5@gmail.com
 
 ## 📖 Citation
-
 If you find this work useful, please cite:
+```bibtex
 @article{zhou2025zerextractor,
   title={zERExtractor: An Automated Platform for Enzyme-Catalyzed Reaction Data Extraction from Scientific Literature},
   author={Zhou, Rui and Ma, Haohui and Xin, Tianle and Zou, Lixin and Hu, Qiuyue and Cheng, Hongxi and Lin, Mingzhi and Guo, Jingjing and Wang, Sheng and Zhang, Guoqing and others},

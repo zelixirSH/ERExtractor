@@ -1,0 +1,768 @@
+=== 全文分析汇总结果 ===
+
+第 1 页：
+```json
+{
+    "Received": "6 March 2020",
+    "Accepted": "5 November 2024",
+    "Published online": "19 November 2024"
+}
+```
+
+
+第 2 页：
+```json
+{
+  "Eukaaritic cell": {
+    "Membrane-associated N-terminal guide colocalization": "P450 system",
+    "Tandem fused chimeric chroma": "P450 system",
+    "N-terminal-guided colocalization": "P450 system"
+  },
+  "E. coli cell": {
+    "Soluble cytoplasmic regions": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled peptide bio-machinery": "P450 system",
+    "N-terminal-heterodimer": "P450 system",
+    "Self-assembled
+
+第 3 页：
+```json
+{
+  "results": {
+    "synthesis_performance": {
+      "plant-specific CYP73A3 subfamily": {
+        "catalytic pathway": "propanoid pathway",
+        "p-coumaric acid": "2.02-fold more than recombinant strain with chimera (ii)"
+      },
+      "optimized coding sequences": "33.05 mg L⁻¹ p-coumaric acid, which was 2.02-fold more than that of the recombinant strain with chimera (ii)"
+    },
+    "biosynthetic performance": {
+      "synthesis of CYP73A3 subfamily (E, coli)": {
+        "catalytic domains": "86 and 43 μg DW⁻¹",
+        "recombinant chimera": "67.90 mg L⁻¹ at 48 hpi (Fig. 2c)"
+      },
+      "synthesis of CYP73A3 subfamily (A, thaliana CYP73A3 subfamily)": {
+        "catalytic domains": "87.51 mg L⁻¹ trans-cinnamic acid at 48 hpi"
+      }
+    }
+  }
+}
+```
+
+
+第 4 页：
+```json
+{
+  "heterodimer (I)": {
+    "CYP73A5": "Δ2-28",
+    "ATR2": "Δ2-77"
+  },
+  "heterodimer (II)": {
+    "CYP73A5": "Δ2-28",
+    "ATR2": "Δ2-77"
+  },
+  "heterodimer (III)": {
+    "CYP73A5": "Δ2-28",
+    "ATR2": "Δ2-77"
+  },
+  "heterodimer (IV)": {
+    "CYP73A5": "Δ2-28",
+    "ATR2": "Δ2-77"
+  }
+}
+```
+
+
+第 5 页：
+```json
+{
+  "Enzymatic assay of SpySystem-mediated CYP73A5-ATR2^2-28 with trans-cinnamic acid": {
+    "trans-Cinnamic acid": {
+      "Km (μM)": {
+        "CYP73A5^2-28": 68.83 ± 14.37,
+        "ATR2^2-28": 0.018 ± 0.002,
+        "heterodimer (I)": 23.35 ± 5.88,
+        "heterodimer (II)": 125.62 ± 15.195,
+        "heterodimer (III)": 69.51 ± 20.16,
+        "heterodimer (IV)": 62.98 ± 15.05
+      },
+      "kcat (min^-1)": {
+        "CYP73A5^2-28": 0.018 ± 0.002,
+        "ATR2^2-28": 0.26,
+        "heterodimer (I)": 1.49 ± 0.39,
+        "heterodimer (II)": 0.198 ± 0.020,
+        "heterodimer (III)": 0.085 ± 0.035,
+        "heterodimer (IV)": 1.02 ± 0.23
+      },
+      "kcat/Km (min^-1 min^-1 × 10^3)": {
+        "CYP73A5^2-28": 1.49 ± 0.39,
+        "ATR2^2-28": 0.26,
+        "heterodimer (I)": 1.02 ± 0.23,
+        "heterodimer (II)": 0.78 ± 0.34,
+        "heterodimer (III)": 0.68,
+        "heterodimer (IV)": 1.08 ± 0.24
+      }
+    },
+    "Enzyme kinetic assays of SpySystem-mediated CYP73A5-ATR2^2-28 and heterodimers": {
+      "heterodimer (I)": {
+        "Km": 68.83 ± 14.37,
+        "kcat": 0.018 ± 0.002,
+        "kcat/Km": 1.49 ± 0.39
+      },
+      "heterodimer (II)": {
+        "Km": 0.198 ± 0.020,
+        "kcat": 0.198 ± 0.020,
+        "kcat/Km": 0.78 ± 0.34
+      },
+      "heterodimer (III)": {
+        "Km": 0.085 ± 0.035,
+        "kcat": 0.085 ± 0.035,
+        "kcat/Km": 0.68
+      },
+      "heterodimer (IV)": {
+        "Km": 1.02 ± 0.23,
+        "kcat": 0.085 ± 0.035,
+        "kcat/Km": 1.08 ± 0.24
+      }
+    }
+  },
+  "Enzymatic assay of SpyTag-mediated CYP73A5-ATR2^2-28 and heterodimers": {
+    "heterodimer (I)": {
+      "Km": 11.00 ± 4.72,
+      "kcat": 11.00 ± 4.72,
+      "kcat/Km": 50.80%
+    },
+    "heterodimer (II)": {
+      "Km": 11.00 ± 4.72,
+      "kcat": 11.00 ± 4.72,
+      "kcat/Km": 50.80%
+    },
+    "heterodimer (III)": {
+      "Km": 11.00 ± 4.72,
+      "kcat": 11.00 ± 4.72,
+      "kcat/Km": 50.80%
+    },
+    "heterodimer (IV
+
+第 6 页：
+```json
+{
+  "Table 2": {
+    "Enzymatic assay of SpySystem-mediated CYP73A5-ATR2^{2-28} - ATR2^{2-27} heterodimers and the free-floating CYP73A5^{2-28} and ATR2^{2-27} at increasing concentration of NADPH",
+    "Proteins": [
+      "CYP73A5^{2-28} & ATR2^{2-27}",
+      "heterodimer (I)",
+      "heterodimer (II)",
+      "heterodimer (III)",
+      "heterodimer (IV)"
+    ],
+    "NADPH^": {
+      "Km (μM)": {
+        "CYP73A5^{2-28}": 171.60 ± 7.65,
+        "ATR2^{2-27}": 0.041 ± 0.001,
+        "heterodimer (I)": 235.91 ± 11.29,
+        "heterodimer (II)": 48.56 ± 6.81,
+        "heterodimer (III)": 64.18 ± 2.63,
+        "heterodimer (IV)": 261.97 ± 21.52
+      },
+      "kcat (min^-1)": {
+        "CYP73A5^{2-28}": 2.39,
+        "ATR2^{2-27}": 6.78,
+        "heterodimer (I)": 1.68 ± 0.09,
+        "heterodimer (II)": 2.84 ± 0.30,
+        "heterodimer (III)": 1.88 ± 0.58,
+        "heterodimer (IV)": 1.97 ± 0.22
+      }
+    },
+    "ATR2^{2-27}": {
+      "Kd (μM)": {
+        "CYP73A5^{2-28}": 0.1 μM,
+        "ATR2^{2-27}": 1.68 ± 0.09
+      }
+    },
+    "Data": {
+      "h": {
+        "CYP73A5^{2-28}": 1.68 ± 0.09,
+        "ATR2^{2-27}": 2.84 ± 0.30,
+        "heterodimer (I)": 1.88 ± 0.58,
+        "heterodimer (II)": 1.88 ± 0.58,
+        "heterodimer (III)": 2.88 ± 0.36,
+        "heterodimer (IV)": 1.97 ± 0.22
+      }
+    }
+  }
+}
+```
+
+
+第 7 页：
+```json
+{
+  "Table 1": {
+    "Columns": [
+      "Heterodimer",
+      "IV",
+      "VI",
+      "VII",
+      "M",
+      "8RP",
+      "VIII",
+      "IX",
+      "X",
+      "XI",
+      "XII",
+      "III",
+      "IX",
+      "XII",
+      "V",
+      "VII",
+      "VIII",
+      "IX",
+      "X",
+      "XI",
+      "XII",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "VIII",
+      "IX",
+      "X",
+      "V
+
+第 8 页：
+```json
+{
+  "Tables": [
+    {
+      "Table 1": "Table 1: Efficiency of Plant P450 Assemblies",
+      "Table 2": "Table 2: Efficiency of Animal P450 Assemblies"
+    }
+  ]
+}
+```
+
+
+第 9 页：
+```json
+{
+  "Plasmodis and bacterial strains": {
+    "Supplementary Data 1": "Supplementary Data 2",
+    "Supplementary Data 3": "Supplementary Data 4",
+    "Supplementary Data 5": "Supplementary Data 6"
+  },
+  "Kinetic assay of SpySystem-reconstructed CYP73A5 and ATR2": {
+    "CYP73A5": "50 μL",
+    "ATR2": "300 μL",
+    "NADPH": "200 μL",
+    "Tris-HCl pH 7.5": "2 μM FMN",
+    "2 μM FMN": "1 mM NADPH",
+    "50 μM": "1 mM NADPH",
+    "Acetaminophen bioproduction": "20% (v/v)"
+  },
+  "p-Coumaric acid de novo biosynthesis": {
+    "Recombinant E. coli strains": "3 mL",
+    "Recombinant E. coli BL21(DE3)": "50 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL21(DE3)": "125 mL",
+    "Recombinant E. coli BL
+
+第 10 页：
+```json
+{
+  "Statistical analysis": {
+    "Data": "The batch cultivation, at least three clones of each recombinant strain were performed for the measurement. After each measurement, the average value and the standard error (SE) of at least three independent batches of each strain were calculated and used for analysis. The mean and the SE were calculated using Microsoft® Excel® 2019 and the final experimental data were represented as mean ± SE. To test whether the differences among different recombinant strains were significant, a one-way analysis of variance (ANOVA) was performed using SPSS Statistics 19.0 with Duncan's new multiple range test (P<0.05). The exact P value was calculated by two-sided t-test using Microsoft® Excel® 2019."
+  },
+  "Reporting summary": {
+    "Further information on research design": "Further information on research design is available in the Nature Portfolio Reporting Summary linked to this article."
+  },
+  "Data availability": {
+    "Data supporting the findings of this study are available within the paper and its Supplementary Information file. A reporting summary for this Article is available as a Supplementary Information file. The mass spectrometry proteomics data have been deposited to the ProteoX-056539 dataset identifier PDX056539. Source data are provided with this paper."
+  },
+  "References": [
+    "Lewis, J. C., Coelho, P. S. & Arnold, F. H. Enzymatic functionalization of carbon-hydrogen bonds. Chem. Soc. Rev. 40, 2003-2021 (2011).",
+    "Ortiz de Montellano, P. R. Substrate oxidation by cytochrome P450: Structure, Mechanism, and Bio-chemistry (eds. Ortiz de Montellano, P. R.) 111-176 (Springer, 2015).",
+    "Tang, M. C., Zou, Y., Yaw, C. 2522-5533 (2017). Oxidative cyclization in natural product biosynthesis. Chem. Rev. 117, 5226-5333 (2017).",
+    "Pateraki, I., Heskes, A. M. & Hamberger, B. Cytochromes P450 for terpenene functionalisation and metabolic engineering. Adv. Bio-chem. Eng. Biol. 148, 107-139 (2015).",
+    "Gesell, A. et al. CYP719B is salutarine synthesis, the C-C phenol-coupling enzyme of morphine biosynthesis in opium poppy. J. Biol. Chem. 284, 24432-24442 (2009).",
+    "Frick, S., Kramell, R. & Kutchan, T. M. Metabolic engineering with a morphine biosynthetic P450 in opium poppy surpasses breeding. Metab. Eng. 9, 169-176 (2007).",
+    "Winzer, T. et al. Morphinan biosynthesis in opium poppy requires a P450-oxidoreductase fusion protein. Science 349, 309-312 (2015).",
+    "Farrow, S. C., Hagel, J. M., Beaudoin, G., A., Burns, D. C. & Facchini, P. Stereochemical inversion of (S)-reticuline by a cytochrome P450 fusion in opium poppy. Nat. Chem. Biol. 11, 728-732 (2015)."
+  ]
+}
+```
+
+
+第 11 页：
+```json
+{
+  "9": {
+    "title": "Roiban, G.-D. & Reetz, M. T. Expanding the toolbox of organic chemists: directed evolution of P450 moxygenases as catalysts in regio- and stereoselective oxidative hydrolyzation. Chem. Commun. 51, 2028-2224 (2015)",
+    "author": "Roiban, G.-D. & Reetz, M. T.",
+    "title": "Expanding the toolbox of organic chemists: directed evolution of P450 moxygenases as catalysts in regio- and stereoselective oxidative hydrolyzation. Chem. Commun. 51, 2028-2224 (2015)",
+    "year": 2015
+  },
+  "10": {
+    "title": "Zakeri, B. B. et al. Peptide tag forming a rapid covalent bond to a protein, through engineering a bacterial adhesion. Proc. Natl Acad. Sci. USA 109, E690- E697 (2012)",
+    "author": "Zakeri, B. B.",
+    "title": "Peptide tag forming a rapid covalent bond to a protein, through engineering a bacterial adhesion. Proc. Natl Acad. Sci. USA 109, E690- E697 (2012)",
+    "year": 2012
+  },
+  "11": {
+    "title": "Galanie, S., Thodey, K., Trenchard, I., Filsinger Interrante, M. & Smoke, C. D. Complete biosynthesis of opioids in yeast. Science 349, 1095-1100 (2015)",
+    "author": "Galanie, S., Thodey, K., Trenchard, I., Filsinger Interrante, M. & Smoke, C. D.",
+    "title": "Complete biosynthesis of opioids in yeast. Science 349, 1095-1100 (2015)",
+    "year": 2015
+  },
+  "12": {
+    "title": "Biggs, B. W. et al. Overcoming heterogenous protein inter-dependency to optimize P450-mediated Taxol precursor synthesis in Escherichia coli. Proc. Natl Acad. Sci. USA 113, 3209-3214 (2016)",
+    "author": "Paddon, C. J. et al. High-level semi-synthetic production of the potent antimicrobial artemisinin. Nature 496, 528-532 (2013)",
+    "year": 2016
+  },
+  "13": {
+    "title": "Paddon, C. J. et al. High-level semi-synthetic production of the potent antimicrobial artemisinin. Nature 496, 528-532 (2013)",
+    "author": "Paddon, C. J. et al. High-level semi-synthetic production of the potent antimicrobial artemisinin. Nature 496, 528-532 (2013)",
+    "year": 2013
+  },
+  "14": {
+    "title": "Ajikumar, P. K. et al. Isoprenoid pathway optimization for Taxol precursor overproduction in Escherichia coli. Science 330, 404-9403 (2010)",
+    "author": "Ajikumar, P. K. et al. Isoprenoid pathway optimization for Taxol precursor overproduction in Escherichia coli. Science 330, 404-9403 (2010)",
+    "year": 2010
+  },
+  "15": {
+    "title": "Chang, M. C., Eaches, R. A., Trieul, W., Ro. D., K. & Keasling, J. D. Engineering Escherichia coli for production of functionalized terpenoids using plant P450s. Nat. Chem. Biol. 3, 274-277 (2007)",
+    "author": "Chang, M. C., Eaches, R. A., Trieul, W., Ro. D., K. & Keasling, J
+
+第 12 页：
+```json
+{
+  "NADPH-cytochrome P-450 reductase in phospholipid membranes": "Arch. Biochem. Biophys. 234, 161-166 (1984)",
+  "Characterization of a dynamic metabolon product- cing the defense compound dhurrrin in sorghum. Science 354, 890-893 (2016)",
+  "Zelasko, S., Palaria, A., & Das, A. Optimizations to achieve high-level expression of cytochrome P450 proteins using Escherichia coli expression systems. Protein Expr. Purif. 92, 77-87 (2013)",
+  "Park, S.Y., Eun, H., Lee, M., H. & Lee, S. S. 302, 77-87 (2013)",
+  "Park, S.Y., Eun, Eun., H., Lee, M. & Lee, S. 303, 918-920 (2012)",
+  "Towbin, H., Staehelin, T. & Gordon, J. El ectrophytic transfer of proteins from polyacrylamide gels to nitrocellulose sheets: proc- e dure and some applications. Proc. Natl. Acad. Sci. USA 76, 4350-4354 (1979)",
+  "Burtelle, W.N. Western blotting: electrofretatic transfer of proteins from sodium dodecyl sulfate-polyacrylamide gels to polyacrylamide gels (1981)",
+  "Alegria-Schaffer, A. Western blotting using chemiluminescent substrates. Methods Enzymol. 541, 251-259 (2014)",
+  "Schneider, C. C. A., Rasband, W. S. & Eliceri, K. W. NIH Image to Image: 25 years of image analysis. Nat. Methods 9, 671-675 (2012)"
+}
+```
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　　12　
+
+　　Nature Communications (2024)15:10009
+

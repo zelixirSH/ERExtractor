@@ -1,0 +1,474 @@
+=== 全文分析汇总结果 ===
+
+第 1 页：
+```json
+[
+    {
+        "title": "Article",
+        "doi": "https://doi.org/10.1038/s41467-024-54259-1"
+    },
+    {
+        "title": "Tuning architectural organization of eukaryotic P450 system to boost bioproduction in Escherichia coli",
+        "authors": [
+            "Yikui Li",
+            "Jie Li",
+            "Wei-Kang Chen",
+            "Yang Li",
+            "Sheng Xu",
+            "Linwei Li",
+            "Bing Xia",
+            "Ren Wang"
+        ],
+        "received": "Received: 6 March 2020",
+        "accepted": "Accepted: 5 November 2024",
+        "published": "Published online: 19 November 2024"
+    }
+]
+```
+
+第 2 页：
+```json
+[
+  {
+    "table": [
+      {
+        "row": [
+          "a",
+          "b",
+          "c"
+        ],
+        "column": [
+          "Eukaryotic cell",
+          "E. coli cell",
+          "Self-assembled peptide bio-machinery."
+        ]
+      }
+    ]
+  }
+]
+```
+
+第 3 页：
+```json
+[
+    {
+        "header": ["Time (h)", "empty vector", "chimera (i)", "chimera (ii)"],
+        "rows": [
+            [0, 0, 0, 0],
+            [12, 0, 0, 0],
+            [24, 0, 0, 0],
+            [36, 0, 0, 0],
+            [48, 0, 0, 0]
+        ]
+    }
+]
+```
+
+第 4 页：
+```json
+[
+    {
+        "header": "Fig. 3 | Architectural organization of plant CYP73A5228 and ATR277 based on self-assembled peptide bio-machinery in E. coli.",
+        "content": "Spycatcher to CYP73A5228 and SpyTag to ATR277 at either the N-terminus or the C-terminus, a set of tandem fused chimeras with distinct architecture could be generated due to the side chain heterodimers with distinct architecture. As indicated in Fig. 3a, four CYP73A5228 and ATR277 heterodimers with different linkage architectures were created, of which all showed a molecular weight (MW) of about 130 kDa (Calculated MW = 139.7 KDa). The target bands with the desired matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size peptides were further identified by LC-MS/MS, showing that the matched size
+
+第 5 页：
+```json
+{
+  "Table 1": {
+    "Proteins": [
+      "CYP73A5Δ2-28 & ATR2Δ2-77",
+      "heterodimer (I)",
+      "heterodimer (II)",
+      "heterodimer (III)",
+      "heterodimer (IV)"
+    ],
+    "trans-Cinnamic acid*": [
+      "68.83 ± 14.37",
+      "23.35 ± 5.88",
+      "125.62 ± 151.95",
+      "69.51 ± 20.16",
+      "62.98 ± 15.05"
+    ],
+    "Km (μM)": [
+      "0.018 ± 0.002",
+      "0.198 ± 0.020",
+      "0.085 ± 0.035",
+      "0.020 ± 0.002",
+      "0.881 ± 0.090"
+    ],
+    "kcat/min⁻¹": [
+      "0.26",
+      "8.48",
+      "0.68",
+      "0.29",
+      "13.99"
+    ],
+    "kcat/Km (M⁻¹ min⁻¹, ×10³)": [
+      "1.49 ± 0.39",
+      "1.02 ± 0.23",
+      "0.78 ± 0.34",
+      "1.08 ± 0.24",
+      "1.08 ± 0.15"
+    ],
+    "h": [
+      "1.49 ± 0.39",
+      "1.02 ± 0.23",
+      "0.78 ± 0.34",
+      "1.08 ± 0.24",
+      "1.08 ± 0.15"
+    ]
+  }
+}
+```
+
+第 6 页：
+```json
+{
+  "Table 2": {
+    "Proteins": [
+      "CYP73A5Δ2-28 & ATR2Δ2-77",
+      "heterodimer (I)",
+      "heterodimer (II)",
+      "heterodimer (III)",
+      "heterodimer (IV)"
+    ],
+    "NADPH* (μM)": [
+      "171.60 ± 7.65",
+      "235.91 ± 11.29",
+      "48.56 ± 6.81",
+      "64.18 ± 2.63",
+      "261.97 ± 21.52"
+    ],
+    "kcat (min^-1)": [
+      "0.041 ± 0.001",
+      "0.160 ± 0.005",
+      "0.032 ± 0.001",
+      "0.008 ± 0.0002",
+      "0.681 ± 0.036"
+    ],
+    "kcat/Km (M^-1 min^-1, × 10^2)": [
+      "2.39",
+      "6.78",
+      "6.59",
+      "1.25",
+      "26.00"
+    ],
+    "h": [
+      "1.68 ± 0.09",
+      "2.84 ± 0.30",
+      "1.88 ± 0.58",
+      "2.88 ± 0.36",
+      "1.97 ± 0.22"
+    ]
+  }
+}
+```
+
+第 7 页：
+```json
+[
+    {
+        "table": [
+            {
+                "row": [
+                    "Heterodimer",
+                    "IV",
+                    "V",
+                    "VI",
+                    "VII",
+                    "M",
+                    "8RP",
+                    "VIII",
+                    "IX",
+                    "X",
+                        "XI",
+                        "XII"
+                ],
+                "column": [
+                    "Titer (mg L−1)",
+                    "60 ± 4",
+                    "72 ± 5",
+                    "93 ± 4",
+                    "100 ± 4",
+                    "100 ± 4",
+                    "100 ± 4",
+                    "100 ± 4",
+                    "100 ± 4",
+                    "100 ± 4",
+                    "100 ± 4",
+                    "100 ± 4"
+                ]
+            }
+        ]
+    },
+    {
+        "table": [
+            {
+                "row": [
+                    "Peptide-specific product (μg (g DW h−1))",
+                    "S3 + 2 + 1 + 4",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E",
+                    "C3E
+
+第 8 页：
+```json
+[
+    {
+        "table": [
+            {
+                "row": [
+                    "Table 1",
+                    "Table 2"
+                ]
+            }
+        ]
+    }
+]
+```
+
+第 9 页：
+```json
+[
+  {
+    "table": [
+      {
+        "row": [
+          "CYP73A5",
+          "ATR2"
+        ],
+        "column": [
+          "Expression and purification of SpySystem-reconstructed CYP73A5 and ATR2",
+          "E. coli BL21(DE3) was used to express the hexahistidine-labeled SpySystem- appended CYP73A5 and ATR2. Cells were grown at 37°C and 200 rpm in LB medium containing kanamycin for 12 h. After washing twice and resuspending in OD600 of 0.4–0.6, cells were induced with 0.1 mM IPTG at 16°C for 20 h. For CYP73A5 derivatives, 0.5 mM 5-aminovaleric acid (5-AIA) was added. About 400 μL cell cultures were then harvested by centrifugation at 6439 × g and 4°C for 5 min, and resuspended in 1 mL phenylmethylsulfonyl fluoride (PMSF) in 40 mL Buffer A (20 mM Tris-HCl pH 7.9, 300 mM NaCl). Cell suspension was disrupted in an ice-water bath at 250 W for 30 min with a 1 sec short burst followed by 3 sec rest for cooling using a JY92-2D sonifier (Scientz Biotech, Ningbo, China). The soluble protein, present in the supernatant after centrifugation at 14,489 × g and 4°C for 30 min, was applied for AKTA pure 25 M1 protein purification system with a 5 mL HisTrapTM HP affinity column (Cytiva, MA, USA). Buffer A and Buffer B (20 mM Tris-HCl pH 7.9, 300 mM NaCl, 300 nm imidazole) were used to wash non-specifically bound proteins and elute the tagged target protein via gradually increasing the ratio of Buffer B in the system buffer. The target protein was desalted into stock solution (20 mM Tris-HCl pH 7.9, 300 mM NaCl, 10% Glycerol) at 3000 × g and 4°C with an Amicon® Ultra-15 centrifugal filter Ultrares™-10 KDa for CYP73A5s and Ultrares®-30 KDa for ATR2s (Merck Millipore, Ireland). Protein concentrations were determined using the Bradford’s assay [28]."
+        ]
+      }
+    ]
+  }
+]
+```
+
+第 10 页：
+```json
+[
+    {
+        "table": [
+            {
+                "row": [
+                    "1",
+                    "Lewis, J.C., Coelho, P.S. & Arnold, F.H.",
+                    "Enzymatic functionalization of carbon-hydrogen bonds.",
+                    "Chem. Soc. Rev. 40, 2003–2021 (2011)."
+                ]
+            },
+            {
+                "row": [
+                    "2",
+                    "Ortiz de Montellano, P.R.",
+                    "Cytochrome P450: Structure, oxidation by cytochrome P450 enzymes.",
+                    "In Cytochrome P450: Structure, Mechanism, and Biochemistry (eds Ortiz de Montellano, P.R.), 111–176 (Springer, Cham, 2015)."
+                ]
+            },
+            {
+                "row": [
+                    "3",
+                    "Tang, M.C., Zou, Y., Watanabe, K., Walsh, C.T. & Tang, Y.",
+                    "Oxidative cyclization in natural product biosynthesis.",
+                    "Chem. Rev. 117, 5226–5333 (2017)."
+                ]
+            },
+            {
+                "row": [
+                    "4",
+                    "Pateraki, I., Heskes, A.M. & Hammerber, B.",
+                    "Cytochromes P450 for terpene functionalisation and metabolic engineering.",
+                    "Adv. Biochem. Eng. Biotechnol. 108, 107–139 (2015)."
+                ]
+            },
+            {
+                "row": [
+                    "5",
+                    "Geisel, A. et al.",
+                    "Salutaridine synthase, the C-C-phenol-coupling enzyme of morphine biosynthesis in opium poppy.",
+                    "J. Biol. Chem. 284, 24432–24442 (2009)."
+                ]
+            },
+            {
+                "row": [
+                    "6",
+                    "Frick, R., Kramel, R. & Kutchan, T. M.",
+                    "Metabolic engineering with a morphine biosynthetic P450 in opium poppy.",
+                    "Nat. Chem. Biol. 11, 728–732 (2015)."
+                ]
+            }
+        ]
+    }
+]
+```
+
+第 11 页：
+```json
+[
+    {
+        "title": "Article",
+        "doi": "https://doi.org/10.1038/s41467-024-54259-1"
+    },
+    {
+        "section": "9.",
+        "content": [
+            "Roiban, G.-D. & Reetz, M. T. Expanding the toolbox of organic chemists: directed evolution of P450 monooxygenases as catalysts in regio- and stereoselective oxidative hydroxylation. Chem. Commun. 51, 2208-2224 (2015).",
+            "Zhang, R. K. et al. Enzymatic assembly of carbon-carbon bonds via iron-catalysed sp2 C-H functionalization. Nature 565, 67-72 (2019).",
+            "Galarie, S., Thodey, K., Trenchard, I., J., Filsing Interante, M. & Smolke, C. D. Complete biosynthesis of opioids in yeast. Science 349, 1095-1100 (2015).",
+            "Biggs, B. W. et al. Overcoming heterologous protein protein interdependency to optimize P450-mediated Taxol precursor synthesis in Escherichia coli. Science 330, 70-74 (2010).",
+            "Chang, M. C., Eachus, R. A., Trieu, W., Ro, D. K. & Keasling, J. D. Engineering Escherichia coli for production of functionalized functionalized terpenoids using plant P450s. Nat. Chem. Biol. 3, 274-277 (2007).",
+            "Ro, D. K. et al. Production of the antimalarial drug precursor artemisinic acid in engineered yeast. Nature 440, 940-943 (2006).",
+            "Luo, X. et al. Complete biosynthesis of cannabinoids and their unnatural analogues in yeast. Nature 567, 123-126 (2019).",
+            "Hannemann, F., Bichet, A., Even, K. M. & Bernhardt, R. Cytochrome P450 systems-biological variations of electron transport chains. Trends Plant Sci. 20, 20-32 (2015).",
+            "Jennwein, S. et al. Coexpression in yeast of Taxus cytochrome P450 reductase with cytochrome P450 oxygenases involved in Taxol biosynthesis. Biotechnol. Bioeng. 58, 588-598 (2005).",
+            "Eberle, D., Ullmann, P., Werck-Reichhart, D. & Petersen, M. cDNA cloning and functional characterisation of CYP98A14 and NADPH-cytochrome P450 reductase from Coleus blumei involved in rosmarinic acid biosynthesis. Plant Mol. Biol. 69, 239-253 (2009).",
+            "Ducassou, L. et al. Expression in yeast, new substrates, and constructs of a first 3D model of human orphan cytochrome P450 2U1: interpretation of substrate hydroxylation regioselectivity from docking studies. Biochem. Biophys. Acta 1850, 1426-1437 (2015).",
+            "Leonard, E. & Koffas, M. A. Engineering of artificial plant cytochrome P450 enzymes for synthesis of isoflavones from Escherichia coli. Appl. Environ. Microbiol. 73, 7246-7251 (2007).",
+            "Narhli, L. O. & Fulco, A. J. Characterization of a catalytically self-sufficient 119,000-dalton cytochrome P450 monooxygenase induced by barbiturates in Bacillus megaterium. J. Biol. Chem. 261, 7160-7169 (1986).",
+            "Croteau, R., Ketchum, R.E., Long, R.M., Kaspera, R. & Wildung, M.R. M.R.
+
+第 12 页：
+```json
+[
+    {
+        "title": "Author contributions",
+        "content": "Y.L. (Yikui Li), J.L., W.K.C., B.X. and R.W. designed the project. J.L. and Y.L. (Yang Li) performed experiments. Y.L. (Yikui Li), J.L., W.K.C., B.X. and R.W. analyzed the data. Y.L. (Yikui Li), W.K.C., S.X., L.L. and R.W. wrote the manuscript with editing from all authors. R.W. supervised the research."
+    },
+    {
+        "title": "Additional information",
+        "content": "The online version contains supplementary material available at https://doi.org/10.1038/s41467-024-54259-1."
+    }
+]
+```
+

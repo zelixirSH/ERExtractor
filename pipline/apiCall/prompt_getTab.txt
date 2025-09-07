@@ -1,0 +1,128 @@
+You are given a scientific document (including a table and its surrounding context). 
+Your task is to 
+Instructions:
+1）Extract the table information，
+2）If there is no table on this page, no content will be output，Don't output table templates, either
+
+
+The following is a tabular data example：
+input：
+| **Proteins**                      | **trans-Cinnamic acid** | **$K_m$ (μM)**        | **$k_{cat}$ (min⁻¹)** | **$k_{cat}/K_m$ (M⁻¹·min⁻¹·×10³)** | **h**             |
+|----------------------------------|--------------------------|------------------------|------------------------|------------------------------------|-------------------|
+| CYP73A5<sup>Δ2–28</sup> & ATR2<sup>Δ2–77</sup> |                          | 68.83 ± 14.37          | 0.018 ± 0.002          | 0.26                               | 1.49 ± 0.39       |
+| heterodimer (I)                  |                          | 23.35 ± 5.88           | 0.198 ± 0.020          | 8.48                               | 1.02 ± 0.23       |
+| heterodimer (II)                 |                          | 125.62 ± 151.95        | 0.085 ± 0.035          | 0.68                               | 0.78 ± 0.34       |
+| heterodimer (III)                |                          | 69.51 ± 20.16          | 0.020 ± 0.002          | 0.29                               | 1.08 ± 0.24       |
+| heterodimer (IV)                 |                          | 62.98 ± 15.05          | 0.881 ± 0.090          | 13.99                              | 1.08 ± 0.15       |
+
+
+output：
+"table_cells": [
+      [
+        "Proteins",
+        "trans-Cinnamicacid",
+        "trans-Cinnamicacid",
+        "trans-Cinnamicacid",
+        "trans-Cinnamicacid"
+      ],
+      [
+        "Proteins",
+        "Km (uM)",
+        "kcat (min-1)",
+        "kcat/Km(M1min,1)",
+        "h"
+      ],
+      [
+        "CYP73A542-28 &ATR242-77",
+        "68.83±14.37",
+        "0.018±0.002",
+        "0.26",
+        "1.49±0.39"
+      ],
+      [
+        "heterodimer (1)",
+        "23.35±5.88",
+        "0.198± 0.020",
+        "8.48",
+        "1.02 ± 0.23"
+      ],
+      [
+        "heterodimer (Il)",
+        "125.62 ± 151.95",
+        "0.085±0.035",
+        "0.68",
+        "0.78±0.34"
+      ],
+      [
+        "heterodimer (II)",
+        "69.51±20.16",
+        "0.020±0.002",
+        "0.29",
+        "1.08±0.24"
+      ],
+      [
+        "heterodimer (IV)",
+        "62.98±15.05",
+        "0.881±0.090",
+        "13.99",
+        "1.08± 0.15"
+      ]
+    ]
+}
+
+Output Format Example:
+
+1)No Table
+2)
+"table_cells": [
+      [
+        "Proteins",
+        "trans-Cinnamicacid",
+        "trans-Cinnamicacid",
+        "trans-Cinnamicacid",
+        "trans-Cinnamicacid"
+      ],
+      [
+        "Proteins",
+        "Km (uM)",
+        "kcat (min-1)",
+        "kcat/Km(M1min,1)",
+        "h"
+      ],
+      [
+        "CYP73A542-28 &ATR242-77",
+        "68.83±14.37",
+        "0.018±0.002",
+        "0.26",
+        "1.49±0.39"
+      ],
+      [
+        "heterodimer (1)",
+        "23.35±5.88",
+        "0.198± 0.020",
+        "8.48",
+        "1.02 ± 0.23"
+      ],
+      [
+        "heterodimer (Il)",
+        "125.62 ± 151.95",
+        "0.085±0.035",
+        "0.68",
+        "0.78±0.34"
+      ],
+      [
+        "heterodimer (II)",
+        "69.51±20.16",
+        "0.020±0.002",
+        "0.29",
+        "1.08±0.24"
+      ],
+      [
+        "heterodimer (IV)",
+        "62.98±15.05",
+        "0.881±0.090",
+        "13.99",
+        "1.08± 0.15"
+      ]
+    ]
+}

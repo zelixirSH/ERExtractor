@@ -1,0 +1,104 @@
+1.Role:
+You are now a professional biochemist. Based on the provided PDF document, carefully follow these steps:
+2.Step-by-Step Instructions
+(1)Step 1: Convert Table to LaTeX (Preserve Formatting & Units)
+If the document contains a table, convert it into LaTeX tabular format, ensuring:
+The table is enclosed within \begin{table} and \begin{tabular}.
+Each column retains its original header names and unit information.
+If units are indicated separately (e.g., in the table header or footnotes), associate them correctly with their respective columns.
+
+(2)Step 2: Extract Information from LaTeX
+After converting the table to LaTeX, check if a column named "Substrate" exists.
+If "Substrate" exists, extract the following fields and format them in JSON:
+Enzyme name
+Substrate
+pH
+Km (including extracted unit)
+Kcat (including extracted unit)
+Relative activity (including extracted unit)
+Ensure that numerical values retain their original units by automatically detecting units from the table.
+If any value is missing, replace it with null.
+If "Substrate" does not exist, return the string # N/A.
+
+(3)Step 3: Output Format
+First, output the correctly formatted LaTeX table.
+Then, output the extracted JSON data, ensuring that:
+Numerical values include their original units detected from the table.
+If a unit is missing or unclear, set it to null instead of removing it.
+If "Substrate" is absent, return # N/A.
+3.Special Cases
+  (1) If the "Substrate" column is missing, return `# N/A`.
+  (2)If additional columns are present, include them in the JSON output with their respective values or `null`.
+
+4. Output Format
+Expected Output:
+(1). LaTeX Table:
+    - The table should be in the standard LaTeX `tabular` format.
+(2). JSON Data:
+    - The JSON output should contain the following fields: Enzyme name, Substrate, pH, Km, Kcat, Relative Activity.
+    - Ensure all values are present; missing values should be replaced with null.
+
+5.Expected Output Example：
+1）LaTeX Table Output
+\begin{table*}[ht]
+        \centering
+        \caption{Catalytic constants of FpLcc1 and FpLcc2 for three common substrates measured in 100 mM sodium-citrate buffer at pH 3.0 or 5.0.}
+        \begin{tabular}{|c|c|c|c|c|c|c|c|}
+                \cline{1-7} 
+        &\multirow{1}{*}{\textbf{Substrate}} & \multirow{1}{*}{\textbf{pH}} & \multicolumn{1}{c|}{\textbf{Km} [µM]} & 
+        \multicolumn{1}{c|}{\textbf{Vmax} [U mg$^{-1}$]} & \multicolumn{1}{c|}{\textbf{kcat} [s$^{-1}$]}&  \multicolumn{1}{c|}{\textbf{$\frac{k_{\text{cat}}}{K_M}$ [mM$^{-1} \cdot$ s$^{-1}$]}} \\ \cline{1-7} 
+        \multirow{4}{*}{\textbf{FpLcc1}}  & \multirow{2}{*}{ABTS} & 3.0  & 59.5 $\pm$ 3.1 & 432 $\pm$ 6 & 409 $\pm$ 6 & 6880 $\pm$ 370  \\  \cline{3-7} 
+& & 5.0 & 50.9 $\pm$ 2.3 & 24.4 $\pm$ 0.3 & 23.1 $\pm$ 0.3 & 455 $\pm$ 21  \\  \cline{2-7} 
+       &\multirow{2}{*}{2,6-DMP}  & 3.0 & 488 $\pm$ 38 & 108 $\pm$ 4 & 102 $\pm$ 3 & 288 $\pm$ 21  \\ \cline{3-7} 
+        & & 5.0  & 35.1 $\pm$ 3.0 & 2140 $\pm$ 130 & 7.89 $\pm$ 0.16 & 255 $\pm$ 20   \\ \cline{1-7}   
+ \end{tabular}
+\end{table*}
+2）JSON Output (with Units)
+[
+  {
+    "Enzyme name": "FpLcc1",
+    "Substrate": "ABTS",
+    "pH": "3.0",
+    "Km": "59.5 ± 3.1µM",
+    "Kcat": "409 ± 6 s^-1",
+    "Kcat/Km": "6880 ± 370 mM^-1*s^-1"
+  },
+   {
+    "Enzyme name": "FpLcc1",
+    "Substrate": "ABTS",
+    "pH": "5.0",
+    "Km": "50.9 ± 2.3 µM",
+    "Kcat": "23.1 ± 0.3 s^-1",
+    "Kcat/Km": "455 ± 21 mM^-1*s^-1"
+  },
+   {
+    "Enzyme name": "FpLcc1",
+    "Substrate": "2,6-DMP",
+    "pH": "3.0",
+    "Km": "448 ± 38µM",
+    "Kcat": "102 ± 3 s^-1",
+    "Kcat/Km": "228 ± 21 mM^-1*s^-1"
+  },
+     {
+    "Enzyme name": "FpLcc1",
+    "Substrate": "2,6-DMP",
+    "pH": "5.0",
+    "Km": "35.1 ± 3.0µM",
+    "Kcat": "7.89 ± 0.16 s^-1",
+    "Kcat/Km": "225 ± 20 mM^-1*s^-1"
+  }
+]
+4.Final Output Requirement:
+The output must include two parts:
+LaTeX table format containing the enzyme kinetics data, including units.
+JSON data extracted from the LaTeX table with the following fields:
+Enzyme name
+Substrate
+pH
+Km (with unit)
+Kcat (with unit)
+Ensure that both outputs are provided in the correct sequence:
+First the LaTeX output.
+Then the JSON output.
+If the "Substrate" column is not present in the table, the string # N/A must be returned instead of any data.
+Ensure that all columns, including those with missing data, are extracted and included in the JSON.

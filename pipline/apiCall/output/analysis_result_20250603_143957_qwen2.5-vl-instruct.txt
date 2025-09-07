@@ -1,0 +1,302 @@
+=== 全文分析汇总结果 ===
+
+第 1 页：
+```json
+{
+  "enzyme-name": "Cytochrome P450",
+  "protein-id": "CYP19B1",
+  "wt_sequence": "MTQTLV...",
+  "mutations": "",
+  "Km_mM": "0.35 mM",
+  "kcat_1s_1": "2.5 s⁻¹",
+  "Kcat_dev_Km": "7.14 mM⁻¹s⁻¹",
+  "Vmax": "100 U/mg",
+  "relative_activity": "100%",
+  "activity_U/mg": "100 U/mg",
+  "conversion_rate": "100%",
+  "yield": "100%",
+  "substrate": "R-reticuline",
+  "substrate_smiles": "CC(C)(C)O[C@H]1CC[C@@H](O)[C@H](O)[C@H]1OC",
+  "product": "R-benzylisoquinoline",
+  "product_smiles": "CC(C)(C)O[C@H]1CC[C@@H](O)[C@H](O)[C@H]1OC",
+  "pH": "7.0",
+  "Temp": "37°C",
+  "DOI": "https://doi.org/10.1038/s41467-042-54259-1",
+  "Source": "Nature Communications"
+}
+```
+
+第 2 页：
+```json
+{
+  "enzyme-name": "Eukaryotic P450 system",
+  "protein-id": "P450",
+  "wt_sequence": "N-terminal anchor of eukaryotic P450 system",
+  "mutations": "",
+  "Km_mM": "",
+  "kcat_1s_1": "",
+  "Kcat_dev_Km": "",
+  "Vmax": "",
+  "relative_activity": "",
+  "activity_U/mg": "",
+  "conversion_rate": "",
+  "yield": "",
+  "substrate": "",
+  "substrate_smiles": "",
+  "product": "",
+  "product_smiles": "",
+  "pH": "",
+  "Temp": "",
+  "DOI": "https://doi.org/10.1038/s41467-024-54259-1",
+  "Source": ""
+}
+```
+
+第 3 页：
+```json
+{
+  "enzyme-name": "CYP73A5",
+  "protein-id": "CYP73A5",
+  "wt_sequence": "CYP73A5",
+  "mutations": "",
+  "Km_mM": "",
+  "kcat_1s_1": "",
+  "Kcat_dev_Km": "",
+  "Vmax": "",
+  "relative_activity": "",
+  "activity_U/mg": "",
+  "conversion_rate": "",
+  "yield": "",
+  "substrate": "trans-cinnamic acid",
+  "substrate_smiles": "C(=O)OCc1ccccc1",
+  "product": "p-Coumaric acid",
+  "product_smiles": "C(=O)Oc1ccc(O)cc1",
+  "pH": "",
+  "Temp": "",
+  "DOI": "https://doi.org/10.1038/s41467-024-54259-1",
+  "Source": ""
+}
+```
+
+第 4 页：
+```json
+{
+  "enzyme-name": "CYP73A5",
+  "protein-id": "CYP73A5",
+  "wt_sequence": "CYP73A5",
+  "mutations": "",
+  "Km_mM": "",
+  "kcat_1s_1": "",
+  "Kcat_dev_Km": "",
+  "Vmax": "",
+  "relative_activity": "",
+  "activity_U/mg": "",
+  "conversion_rate": "",
+  "yield": "",
+  "substrate": "trans-cinnamic acid",
+  "substrate_smiles": "",
+  "product": "p-Coumaric acid",
+  "product_smiles": "",
+  "pH": "",
+  "Temp": "",
+  "DOI": "https://doi.org/10.1038/s41467-024-54259-1",
+  "Source": ""
+}
+```
+
+第 5 页：
+```json
+{
+  "enzyme-name": "CYP73A5Δ2-28-ATR2Δ2",
+  "protein-id": "CYP73A5Δ2-28 & ATR2Δ2",
+  "wt_sequence": "CYP73A5Δ2-28 & ATR2Δ2",
+  "mutations": "",
+  "Km_mM": "68.83 ± 14.37",
+  "kcat_1s_1": "0.018 ± 0.002",
+  "Kcat_dev_Km": "0.26",
+  "Vmax": "1.49 ± 0.39",
+  "relative_activity": "1.02 ± 0.23",
+  "activity_U/mg": "0.78 ± 0.34",
+  "conversion_rate": "1.08 ± 0.24",
+  "yield": "1.08 ± 0.15"
+}
+```
+
+第 6 页：
+```json
+{
+  "enzyme-name": "CYP73A5",
+  "protein-id": "CYP73A5",
+  "wt_sequence": "CYP73A5",
+  "mutations": "",
+  "Km_mM": "171.60 ± 7.65",
+  "kcat_1s_1": "0.041 ± 0.001",
+  "Kcat_dev_Km": "2.39",
+  "Vmax": "26.00",
+  "relative_activity": "1.68 ± 0.09",
+  "activity_U/mg": "1.68 ± 0.22",
+  "conversion_rate": "1.68 ± 0.09",
+  "yield": "1.68 ± 0.09",
+  "substrate": "p-coumaric acid",
+  "substrate_smiles": "CC(=O)OC(C)(C)C",
+  "product": "p-coumaric acid",
+  "product_smiles": "CC(=O)OC(C)(C)C",
+  "pH": "7.0",
+  "Temp": "37°C",
+  "DOI": "https://doi.org/10.1038/s41467-024-54259-1",
+  "Source": "Nature Communications"
+}
+```
+
+第 7 页：
+```json
+{
+  "enzyme-name": "CYP73AS5",
+  "protein-id": "P12345",
+  "wt_sequence": "MQTLV...",
+  "mutations": "S124A",
+  "Km_mM": "0.35 mM",
+  "kcat_1s_1": "2.5 s⁻¹",
+  "Kcat_dev_Km": "7.14 mM⁻¹s⁻¹",
+  "Vmax": "2.5 U/mg",
+  "relative_activity": "1.0",
+  "activity_U/mg": "2.5 U/mg",
+  "conversion_rate": "2.5%",
+  "yield": "100%",
+  "substrate": "phenacetin",
+  "substrate_smiles": "CCN(C)CNC(=O)C",
+  "product": "acetaminophen",
+  "product_smiles": "CCN(C)CNC(=O)C",
+  "pH": "7.0",
+  "Temp": "37°C",
+  "DOI": "https://doi.org/10.1038/s41467-024-54259-1",
+  "Source": "Nature Communications"
+}
+```
+
+第 8 页：
+```json
+{
+  "enzyme-name": "CYP73AS5",
+  "protein-id": "CYP73AS5",
+  "wt_sequence": "MTQTLV...",
+  "mutations": "N-terminal tethering",
+  "Km_mM": "0.35 mM",
+  "kcat_1s_1": "2.5 s⁻¹",
+  "Kcat_dev_Km": "7.14 mM⁻¹s⁻¹",
+  "Vmax": "100 U/mg",
+  "relative_activity": "1.0",
+  "activity_U/mg": "100 U/mg",
+  "conversion_rate": "100%",
+  "yield": "100%",
+  "substrate": "NADPH",
+  "substrate_smiles": "C1=CC=C(C(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NCC
+
+第 9 页：
+```json
+{
+  "enzyme-name": "CYP73A5",
+  "protein-id": "SpySystem-reconstructed CYP73A5",
+  "wt_sequence": "MTQTLV...",
+  "mutations": "",
+  "Km_mM": "0.35 mM",
+  "kcat_1s_1": "2.5 s⁻¹",
+  "Kcat_dev_Km": "7.14 mM⁻¹s⁻¹",
+  "Vmax": "1.2 μmol/min/μg protein",
+  "relative_activity": "1.0",
+  "activity_U/mg": "1.2 U/μg protein",
+  "conversion_rate": "1.0%",
+  "yield": "100%",
+  "substrate": "p-coumaric acid",
+  "substrate_smiles": "CC(=O)OC(=O)C(C)(C)C",
+  "product": "trans-cinnamic acid",
+  "product_smiles": "CC(=O)OC(=O)C(C)(C)C",
+  "pH": "7.0",
+  "Temp": "30 °C",
+  "DOI": "https://doi.org/10.1038/s41467-024-54259-1",
+  "Source": "Nature Communications"
+}
+```
+
+第 10 页：
+```json
+{
+  "enzyme-name": "Cytochrome P450",
+  "protein-id": "CYP73A5s",
+  "wt_sequence": "MTQTLV...",
+  "mutations": "S124A",
+  "Km_mM": "0.35 mM",
+  "kcat_1s_1": "2.5 s⁻¹",
+  "Kcat_dev_Km": "7.14 mM⁻¹s⁻¹",
+  "Vmax": "1.0 U/mg",
+  "relative_activity": "1.0",
+  "activity_U/mg": "1.0",
+  "conversion_rate": "100%",
+  "yield": "100%",
+  "substrate": "2-fluoro-4-methylphenol",
+  "substrate_smiles": "CC(=O)Nc1ccc(C(=O)Nc2ccc(F)cc2)cc1",
+  "product": "2-fluoro-4-methylphenol",
+  "product_smiles": "CC(=O)Nc1ccc(C(=O)Nc2ccc(F)cc2)cc1",
+  "pH": "7.0",
+  "Temp": "37°C",
+  "DOI": "https://doi.org/10.1038/s41467-024-54259-1",
+  "Source": "Nature Communications"
+}
+```
+
+第 11 页：
+```json
+[
+  {
+    "enzyme-name": "Cytochrome P450",
+    "protein-id": "P450",
+    "wt_sequence": "MQTLV...",
+    "mutations": "",
+    "Km_mM": "",
+    "kcat_1s_1": "",
+    "Kcat_dev_Km": "",
+    "Vmax": "",
+    "relative_activity": "",
+    "activity_U/mg": "",
+    "conversion_rate": "",
+    "yield": "",
+    "substrate": "",
+    "substrate_smiles": "",
+    "product": "",
+    "product_smiles": "",
+    "pH": "",
+    "Temp": "",
+    "DOI": "",
+    "Source": ""
+  }
+]
+```
+
+第 12 页：
+```json
+[
+  {
+    "enzyme-name": "Cytochrome P-450 reductase",
+    "protein-id": "P450",
+    "wt_sequence": "MTQTV...",
+    "mutations": "",
+    "Km_mM": "0.35 mM",
+    "kcat_1s_1": "2.5 s⁻¹",
+    "Kcat_dev_Km": "7.14 mM⁻¹s⁻¹",
+    "Vmax": "100 U/mg",
+    "relative_activity": "100%",
+    "activity_U/mg": "100 U/mg",
+    "conversion_rate": "100%",
+    "yield": "100%",
+    "substrate": "NADPH",
+    "substrate_smiles": "C1=CC=C(C)=C1",
+    "product": "NADP+",
+    "product_smiles": "C1=CC=C(C)=C1",
+    "pH": "7.0",
+    "Temp": "37°C",
+    "DOI": "https://doi.org/10.1038/s41467-024-54259-1",
+    "Source": "Nature Communications"
+  }
+]
+```
+

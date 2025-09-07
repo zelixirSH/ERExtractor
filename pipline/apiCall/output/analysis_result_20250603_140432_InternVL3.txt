@@ -1,0 +1,561 @@
+=== 全文分析汇总结果 ===
+
+第 1 页：
+```json
+{
+  "title": "Tuning architectural organization of eukaryotic P450 system to boost bioproduction in Escherichia coli",
+  "authors": [
+    {
+      "name": "Yikui Li",
+      "id": "1,2,3,4",
+      "affiliation": "Institute of Botany, Jiangsu Province and Chinese Academy of Sciences, Nanjing 210014, China"
+    },
+    {
+      "name": "Jie Li",
+      "id": "1,2,3",
+      "affiliation": "Key Laboratory for the Research and Utilization of Plant Resources, Nanjing 210014, China"
+    },
+    {
+      "name": "Wei-Kang Chen",
+      "id": "1,2,3",
+      "affiliation": "Plant Resources, Nanjing 210014, China"
+    },
+    {
+      "name": "Yang Li",
+      "id": "1,2,3",
+      "affiliation": "Sheng Xu",
+      "id": "1,2,3",
+      "affiliation": "Linwei Li",
+      "id": "1,2,3"
+    },
+    {
+      "name": "Bing Xia",
+      "id": "1,2,3",
+      "affiliation": "Bing Xia"
+    },
+    {
+      "name": "Ren Wang",
+      "id": "1,2,3",
+      "affiliation": "Ren Wang"
+    }
+  ],
+  "received_date": "6 March 2020",
+  "accepted_date": "5 November 2024",
+  "published_date": "19 November 2024",
+  "check_for_updates": "Check for updates"
+}
+```
+
+
+第 2 页：
+```json
+{
+  "Eukaaritic cell": {
+    "Membrane-associated N-terminal guide colocalization": "P450 system, in which P450 enzymes and their red partner NADPH-cytochrome P450 reducease (CPR) generally colocalize on the cytoplasmic surface of the P450 system, in which P450 enzymes and their red partner NADPH-cytochrome P450 reducease (CPR) generally colocalize on the cytoplasmic surface of the P450 system, in which P450 enzymes and their red partner NADPH-cytochrome P450 reducease (CPR) generally colocalize on the cytoplasmic surface of the P450 system, in which P450 enzymes and their red partner NADPH-cytochrome P450 reducease (CPR) generally colocalize on the cytoplasmic surface of the P450 system, in which P450 enzymes and their red partner NADPH-cytochrome P450 reducease (CPR) generally colocalize on the cytoplasmic surface of the P450 system, in which P450 enzymes and their red partner NADPH-cytochrome P450 reducease (CPR) generally colocalize on the cytoplasmic surface of the P450 system, in which P450 enzymes and their red partner NADPH-cytochrome P450 reducease (CPR) generally colocalize on the cytoplasmic surface of the P450 system, in which P450 enzymes and their red partner NADPH-cytochrome P450 reducease (CPR) generally colocalize on the cytoplasmic surface of the P450 system, in which P450 enzymes and their red partner NADPH-cytochrome P450 reducease (CPR) generally colocalize on the cytoplasmic surface of the P450 system, in which P450 enzymes and their red partner NADPH-cytochrome P450 reducease (CPR) generally colocalize on the cytoplasmic surface of the P450 system, in which P450 enzymes and their red partner NADPH-cytochrome P450 reducease (CPR) generally colocalize on the cytoplasmic surface of the P450 system, in which P450 enzymes and their red partner NADPH-cytochrome P450 reducease (CPR) generally colocalize on the cytoplasmic surface of the P450 system, in which P450 enzymes and their red partner NADPH-cytochrome P450 reducease (CPR) generally colocalize on the cytoplasmic surface of the P450 system, in which P450 enzymes and their red partner NADPH-cytochrome P450 reducease (CPR) generally colocalize on the cytoplasmic surface of the P450 system, in which P450 enzymes and their red partner NADPH-cytochrome P450 reducease (CPR) generally colocalize on the cytoplasmic surface of the P450 system, in which P450 enzymes and their red partner NADPH-cytochrome P450 reducease (CPR) generally colocalize on the cytoplasmic surface of the P450 system, in which P450 enzymes and their red partner NADPH-cytochrome P450 reducease (CPR) generally colocalize on the cytoplasmic surface of the P450 system, in which P450 enzymes and their red partner NADPH-cytochrome P450 reducease (CPR) generally colocalize on the cytoplasmic surface of the P450 system, in which P450 enzymes and their red partner NADPH-cytochrome P450 reducease (CPR) generally colocalize on the cytoplasmic surface of the P450 system, in which P450 enzymes and their red partner NADPH-cytochrome P450 reducease (CPR) generally colocalize on the cytoplasmic surface of the P450 system, in which P450 enzymes and their red partner NADPH-cytochrome P450 reducease (CPR) generally colocalize on the cytoplasmic surface of the P450 system, in which P45
+
+第 3 页：
+```json
+{
+  "results": {
+    "synthesized_crypt73A5": {
+      "A": "thaliana CYP73A5",
+      "B": "trans-cinnamic acid",
+      "C": "p-coumaric acid",
+      "D": "NADPH",
+      "E": "coli",
+      "F": "p-coumaric acid de novo biosynthesis",
+      "G": "trans-cinnamic acid accumulation",
+      "H": "p-coumaric acid de novo biosynthesis",
+      "I": "trans-cinnamic acid accumulation",
+      "J": "p-coumaric acid de novo biosynthesis",
+      "K": "trans-cinnamic acid accumulation",
+      "L": "p-coumaric acid de novo biosynthesis",
+      "M": "trans-cinnamic acid accumulation",
+      "N": "p-coumaric acid de novo biosynthesis",
+      "O": "trans-cinnamic acid accumulation",
+      "P": "p-coumaric acid de novo biosynthesis",
+      "Q": "trans-cinnamic acid accumulation",
+      "R": "p-coumaric acid de novo biosynthesis",
+      "S": "trans-cinnamic acid accumulation",
+      "T": "p-coumaric acid de novo biosynthesis",
+      "U": "trans-cinnamic acid accumulation",
+      "V": "p-coumaric acid de novo biosynthesis",
+      "W": "trans-cinnamic acid accumulation",
+      "X": "p-coumaric acid de novo biosynthesis",
+      "Y": "trans-cinnamic acid accumulation",
+      "Z": "p-coumaric acid de novo biosynthesis",
+      "AA": "trans-cinnamic acid de novo biosynthesis",
+      "AB": "trans-cinnamic acid de novo biosynthesis",
+      "AC": "trans-cinnamic acid de novo biosynthesis",
+      "AD": "trans-cinnamic acid de novo biosynthesis",
+      "AE": "trans-cinnamic acid de novo biosynthesis",
+      "AF": "trans-cinnamic acid de novo biosynthesis",
+      "AG": "trans-cinnamic acid de novo biosynthesis",
+      "AH": "trans-cinnamic acid de novo biosynthesis",
+      "AI": "trans-cinnamic acid de novo biosynthesis",
+      "AJ": "trans-cinnamic acid de novo biosynthesis",
+      "AK": "trans-cinnamic acid de novo biosynthesis",
+      "AL": "trans-cinnamic acid de novo biosynthesis",
+      "AM": "trans-cinnamic acid de novo biosynthesis",
+      "AN": "trans-cinnamic acid de novo biosynthesis",
+      "AO": "trans-cinnamic acid de novo biosynthesis",
+      "AP": "trans-cinnamic acid de novo biosynthesis",
+      "AR": "trans-cinnamic acid de novo biosynthesis",
+      "AS": "trans-cinnamic acid de novo biosynthesis",
+      "AT": "trans-cinnamic acid de novo biosynthesis",
+      "AU": "trans-cinnamic acid de novo biosynthesis",
+      "AV": "trans-cinnamic acid de novo biosynthesis",
+      "AW": "trans-cinnamic acid de novo biosynthesis",
+      "AX": "trans-cinnamic acid de novo biosynthesis",
+      "AY": "trans-cinnamic acid de novo biosynthesis",
+      "AZ": "trans-cinnamic acid de novo biosynthesis",
+      "BA": "trans-cinnamic acid de novo biosynthesis",
+      "BB": "trans-cinnamic acid de novo biosynthesis",
+      "BC": "trans-cinnamic acid de novo biosynthesis",
+      "BD": "trans-cinnamic acid de novo biosynthesis",
+      "BE": "trans-cinnamic acid de novo biosynthesis",
+      "BF": "trans-cinnamic acid de novo biosynthesis",
+      "BG": "trans-cinnamic acid de novo biosynthesis",
+      "BI": "trans-cinnamic acid de novo biosynthesis",
+      "BJ": "trans-cinnamic acid de novo biosynthesis",
+      "BK": "trans-cinnamic acid de novo biosynthesis",
+      "BL": "trans-cinnamic acid de novo biosynthesis",
+      "BM": "trans-cinnamic acid de novo biosynthesis",
+      "BN": "trans-cinnamic acid de novo biosynthesis",
+      "BO": "trans-cinnamic acid de novo biosynthesis",
+      "BP": "trans-cinnamic acid de novo biosynthesis",
+      "BR": "trans-cinnamic acid de novo biosynthesis",
+      "BS": "trans-cinnamic acid de novo biosynthesis",
+      "BT": "trans-cinnamic acid de novo biosynthesis",
+      "BU": "trans-cinn
+
+第 4 页：
+```json
+{
+  "a": {
+    "heterodimer (I)": {
+      "CYP73A5Δ2-28": "ATR2Δ2-77",
+      "CYP73A5Δ2-28": "ATR2Δ2-77"
+    },
+    "heterodimer (II)": {
+      "CYP73A5Δ2-28": "ATR2Δ2-77",
+      "CYP73A5Δ2-28": "ATR2Δ2-77"
+    },
+    "heterodimer (III)": {
+      "CYP73A5Δ2-28": "ATR2Δ2-77",
+      "CYP73A5Δ2-28": "ATR2Δ2-77"
+    },
+    "heterodimer (IV)": {
+      "CYP73A5Δ2-28": "ATR2Δ2-77",
+      "CYP73A5Δ2-28": "ATR2Δ2-77"
+    }
+  },
+  "b": {
+    "heterodimer (I)": {
+      "p-Coumaric acid": "Δa"
+    },
+    "heterodimer (II)": {
+      "p-Coumaric acid": "Δa"
+    },
+    "heterodimer (III)": {
+      "p-Coumaric acid": "Δa"
+    },
+    "heterodimer (IV)": {
+      "p-Coumaric acid": "Δa"
+    }
+  },
+  "c": {
+    "heterodimer (I)": {
+      "p-Coumaric acid": "Δa"
+    },
+    "heterodimer (II)": {
+      "p-Coumaric acid": "Δa"
+    },
+    "heterodimer (III)": {
+      "p-Coumaric acid": "Δa"
+    },
+    "heterodimer (IV)": {
+      "p-Coumaric acid": "Δa"
+    }
+  }
+}
+```
+
+
+第 5 页：
+```json
+{
+  "Enzymatic assay of SpySystem-mediated CYP73A5-ATR2^2-28 with trans-cinnamic acid": {
+    "Proteins": [
+      "CYP73A5^42-28",
+      "ATR2^2-28",
+      "trans-cinnamic acid^42-27",
+      "heterodimer (I)",
+      "heterodimer (II)",
+      "heterodimer (III)",
+      "heterodimer (IV)"
+    ],
+    "trans-cinnamic acid": {
+      "Km (μM)": {
+        "CYP73A5^42-28": 68.83 ± 14.37,
+        "ATR2^2-28": 0.018 ± 0.002,
+        "Kcat (min^-1)": 0.0198 ± 0.020,
+        "Kcat/Km (M^-1 min^-1)": 0.26,
+        "h": 1.49 ± 0.39
+      },
+      "heterodimer (I)": {
+        "Km (μM)": 23.35 ± 5.88,
+        "Kcat (min^-1)": 0.198 ± 0.020,
+        "Kcat/Km (M^-1 min^-1)": 8.48,
+        "h": 1.02 ± 0.23
+      },
+      "heterodimer (II)": {
+        "Km (μM)": 125.62 ± 151.95,
+        "Kcat (min^-1)": 0.085 ± 0.035,
+        "Kcat/Km (M^-1 min^-1)": 0.68,
+        "h": 0.78 ± 0.34
+      },
+      "heterodimer (III)": {
+        "Km (μM)": 69.51 ± 20.16,
+        "Kcat (min^-1)": 0.020 ± 0.002,
+        "Kcat/Km (M^-1 min^-1)": 13.99,
+        "h": 1.08 ± 0.24
+      },
+      "heterodimer (IV)": {
+        "Km (μM)": 62.98 ± 15.05,
+        "Kcat (min^-1)": 0.881 ± 0.090,
+        "Kcat/Km (M^-1 min^-1)": 13.99,
+        "h": 1.08 ± 0.15
+      }
+    },
+    "Heterodimers and free-floating CYP73A5-ATR2^2-28 and heterodimer (IV)": {
+      "Km (μM)": {
+        "CYP73A5^42-28": 68.83 ± 14.37,
+        "ATR2^2-28": 0.018 ± 0.002,
+        "Kcat (min^-1)": 0.26,
+        "Kcat/Km (M^-1 min^-1)": 1.49 ± 0.39
+      },
+      "heterodimer (I)": {
+        "Km (μM)": 23.35 ± 5.88,
+        "Kcat (min^-1)": 0.198 ± 0.020,
+        "Kcat/Km (M^-1 min^-1)": 8.48,
+        "h": 1.02 ± 0.23
+      },
+      "heterodimer (II)": {
+        "Km (μM)": 125.62 ± 151.95,
+        "Kcat (min^-1)": 0.085 ± 0.035,
+        "Kcat/Km (M^-1 min^-1)": 0.68,
+        "h": 0.78 ± 0.34
+      },
+      "heterodimer (III)": {
+        "Km (μM)": 69.51 ± 20.16,
+        "Kcat (min^-1)": 0.020 ± 0.002,
+        "Kcat/Km (M^-1
+
+第 6 页：
+```json
+{
+  "Table 2": {
+    "Enzymatic assay of SpySystem-mediated CYP73A5-ATR2^{2-28} - ATR2^{2-27} heterodimers and the free-floating CYP73A5^{2-28} and ATR2^{2-27} at increasing concentration of NADPH",
+    "Proteins": [
+      "CYP73A5^{2-28} & ATR2^{2-27}",
+      "heterodimer (I)",
+      "heterodimer (II)",
+      "heterodimer (III)",
+      "heterodimer (IV)"
+    ],
+    "NADPH^": {
+      "Km (μM)": {
+        "CYP73A5^{2-28} & ATR2^{2-27}": 171.60 ± 7.65,
+        "heterodimer (I)": 235.91 ± 11.29,
+        "heterodimer (II)": 48.56 ± 6.81,
+        "heterodimer (III)": 64.18 ± 2.63,
+        "heterodimer (IV)": 261.97 ± 21.52
+      },
+      "kcat (min^-1)": {
+        "CYP73A5^{2-28} & ATR2^{2-27}": 0.041 ± 0.001,
+        "heterodimer (I)": 0.160 ± 0.005,
+        "heterodimer (II)": 0.032 ± 0.001,
+        "heterodimer (III)": 0.008 ± 0.0002,
+        "heterodimer (IV)": 0.681 ± 0.036
+      },
+      "kcat/Km (M^-1 min^-1, x 10^2)": {
+        "CYP73A5^{2-28} & ATR2^{2-27}": 1.68 ± 0.09,
+        "heterodimer (I)": 2.84 ± 0.30,
+        "heterodimer (II)": 1.88 ± 0.58,
+        "heterodimer (III)": 2.88 ± 0.36,
+        "heterodimer (IV)": 1.97 ± 0.22
+      }
+    },
+    "The Hill's equation was used to fit the formation rate of p-coumaric acid to the concentrations of NADPH. h is the Hill coefficient. Data are shown as mean ± SE (n=3 independent experiments).",
+    "*The Hill's equation was used to fit the formation rate of p-coumaric acid to the concentrations of NADPH. h is the Hill coefficient. Data are shown as mean ± SE (n=3 independent experiments)."
+  }
+}
+```
+
+
+第 7 页：
+```json
+{
+  "Table": {
+    "Columns": [
+      {
+        "Column 1": "Heterodimeric productivity (u/g DW)",
+        "Column 2": "bcd",
+        "Column 3": "bc",
+        "Column 4": "cd",
+        "Column 5": "cd",
+        "Column 6": "cd",
+        "Column 7": "cd",
+        "Column 8": "cd",
+        "Column 9": "cd",
+        "Column 10": "cd",
+        "Column 11": "cd",
+        "Column 12": "cd",
+        "Column 13": "cd",
+        "Column 14": "cd",
+        "Column 15": "cd",
+        "Column 16": "cd",
+        "Column 17": "cd",
+        "Column 18": "cd",
+        "Column 19": "cd",
+        "Column 20": "cd",
+        "Column 21": "cd",
+        "Column 22": "cd",
+        "Column 23": "cd",
+        "Column 24": "cd",
+        "Column 25": "cd",
+        "Column 26": "cd",
+        "Column 27": "cd",
+        "Column 28": "cd",
+        "Column 29": "cd",
+        "Column 30": "cd",
+        "Column 31": "cd",
+        "Column 32": "cd",
+        "Column 33": "cd",
+        "Column 34": "cd",
+        "Column 35": "cd",
+        "Column 36": "cd",
+        "Column 37": "cd",
+        "Column 38": "cd",
+        "Column 39": "cd",
+        "Column 40": "cd",
+        "Column 41": "cd",
+        "Column 42": "cd",
+        "Column 43": "cd",
+        "Column 44": "cd",
+        "Column 45": "cd",
+        "Column 46": "cd",
+        "Column 47": "cd",
+        "Column 48": "cd",
+        "Column 49": "cd",
+        "Column 50": "cd",
+        "Column 51": "cd",
+        "Column 52": "cd",
+        "Column 53": "cd",
+        "Column 54": "cd",
+        "Column 55": "cd",
+        "Column 56": "cd",
+        "Column 57": "cd",
+        "Column 58": "cd",
+        "Column 59": "cd",
+        "Column 60": "cd",
+        "Column 61": "cd",
+        "Column 62": "cd",
+        "Column 63": "cd",
+        "Column 64": "cd",
+        "Column 65": "cd",
+        "Column 66": "cd",
+        "Column 67": "cd",
+        "Column 68": "cd",
+        "Column 69": "cd",
+        "Column 70": "cd",
+        "Column 71": "cd",
+        "Column 72": "cd",
+        "Column 73": "cd",
+        "Column 74": "cd",
+        "Column 75": "cd",
+        "Column 76": "cd",
+        "Column 77": "cd",
+        "Column 78": "cd",
+        "Column 79": "cd",
+        "Column 80": "cd",
+        "Column 81": "cd",
+        "Column 82": "cd",
+        "Column 83": "cd",
+        "Column 84": "cd",
+        "Column 85": "cd",
+        "Column 86": "cd",
+        "Column 87": "cd",
+        "Column 88": "cd",
+        "Column 89": "cd",
+        "Column 90": "cd",
+        "Column 91": "cd",
+        "Column 92": "cd",
+        "Column 93": "cd",
+        "Column 94": "cd",
+        "Column 95": "cd",
+        "Column 96": "cd",
+        "Column 97": "cd",
+        "Column 98": "cd",
+        "Column 99": "cd",
+        "Column 100": "cd",
+        "Column 10
+
+第 8 页：
+```json
+{
+  "tables": [
+    {
+      "table": {
+        "title": "N-terminal bridged geometry of eukaryotic P450-CPR assemblies in E. coli",
+        "columns": [
+          "Panel 1",
+          "Panel 2",
+          "Panel 3",
+          "Panel 4",
+          "Panel 5"
+        ],
+        "data": [
+          {
+            "panel1": "Figs. 3 and 5",
+            "description": "Among the endowed eukaryotic P450-CPR assemblies, the highest biosynthetic performance in E. coli, and further confirmed that the N-terminal bridged geometry of eukaryotic P450 systems is susceptible to the environmental and concentration of the components, the in vitro quantitative enzymatic assays indicated that the peptide-based geometric architecture had an influence on substrate access of eukaryotic P450 systems and further confirmed that the N-terminal bridged geometry of eukaryotic P450 systems (Tables 1 and 2). Presumably, the N-terminal bridged architecture of eukaryotic P450 complexes in the native membrane-bound P450-CPR complex in eukaryotic cells, facilitates substrate access and electron transfer-required conformation change. On the other hand, the N-terminal tethering reinforces the protein-protein interactions of the reconstructed eukaryotic P450 system, and may promote the association of the cofactor-binding peptide-based SpySystem-based architectures, the N-terminal bridged architecture of the engineered assemblies. In regard to the distinguished N-termini-appended peptide BioBricks of the SpySystem resulted in a 50.76% decline in the biosynthetic performance of plant CYP73A5-CPR assemblies (Fig. 4), swapping the biosynthetic performance of the Shoopsys panels 2 and 4). The robust biosynthetic performance of SpySystem- tethered CYP73A5-ATR2 performance of the engineered assemblies (Fig. 4 panels 1 and 2) indicates that the biosynthetic performance of the engineered assemblies depends on the forming geometry of the reconstituted components, resulted from the swapping of the level of the reconstructed N-terminal peptide-peptide bridges. The results demonstrate that a well-designed architecture, in terms of the configuration, can impose spatial constraints on either the structural docking of the protein assemblies or the conformational flexibility of the redox partner required for the long-distance electron transfer in eukaryotic P450 system. The potential spatial constraints may be resolved via optimizing the liners between the BioBricks of self-assembled peptide bio-machinery and eukaryotic P450 system. What's suggested in the context is that when the natural topology structure should be considered in priority to learn for designing the spatial architecture of the reconstructed protein assemblies, of which the configuration should not be excluded meanwhile.",
+            "description": "The engineered coverable protein assembly paves an alternative way to investigate and unravel the structure-function relationships of membrane protein complexes with various spatial architectures. The membrane-associated protein assemblies are often dynamic and difficult to separate and purify, causing the structure of membrane protein complexes hard to access in practice. Outside the native membrane, membrane proteins often suffer from low expression, poor solubility and high instability, making their recombinant production and structural characterization challenging. Aiming at the membrane anchors, the peptide-based covalent protein assembly can build the counterparts of the membrane protein complexes with some kind architectures, and enable the researchers to purify the recombinant protein complexes via incorporating a proper affinity tag, the bioproduction of human P450 system, and the bioproduction of drug metabolite in E. coli (Fig. 5)."
+          },
+          {
+            "panel1": "Figs. 4 and 5",
+            "description": "The results indicate that establishing a firm N-terminal tethering between eukaryotic P450 enzyme and its redox partner can not only strengthen their association but also enhance the biosynthetic performance of eukaryotic P450 system. This finding was further validated with human P450 system, whereas the bioproduction of drug metabolite in E. coli (Fig. 5)."
+          }
+        ]
+      }
+    }
+  ]
+}
+```
+
+第 9 页：
+```json
+{
+    "Methods": {
+        "Kinetic assay of SpySystem-reconstructed CYP73A5 and ATR2": {
+            "Conditions": {
+                "Temperature": "250 W",
+                "Time": "30 min",
+                "Concentration": "14.489 g and 4 °C for 30 min",
+                "Solubility": "5 mL HisTrap™ HHP affinity column (Cytiva, MA, USA)",
+                "Buffer A": "20 mM Tri-HCl pH 7.9, 300 mM NaCl, 300 mM imida-tze",
+                "Buffer B": "20 mM Tri-HCl pH 7.9, 3000 mM NaCl, 10% Glycerol at 3,000 × g and 4 °C with an Amicon® Ultra-15 centrifugal filter (Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP3A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5s and Ultra-10 DKA for CYP73A5
+
+第 10 页：
+```json
+{
+  "Statistical analysis": {
+    "Data": "The mean and the SE were calculated using Microsoft® Excel® 2019 and the final experimental data were represented as mean ± SE. To test whether the differences among different recombinant strains were significant, a one-way analysis of variance (ANOVA) was performed using SPSS Statistics 19.0 with Duncan's new multiple range test (P<0.05). The exact P value was calculated by two-sided t-test using Microsoft® Excel® 2019.",
+    "Reporting summary": {
+      "Further information on research design is available in the Nature Portfolio Reporting Summary linked to this article."
+    },
+    "Data availability": "Data supporting the findings of this study are available within the paper and its Supplementary Information file. A reporting summary for the research design is available in the Nature Portfolio Reporting Summary linked to this article."
+  }
+}
+```
+
+
+第 11 页：
+```json
+{
+  "9": {
+    "title": "Roiban, G.-D. & Reetz, M. T. Expanding the toolbox of organic chemists: directed evolution of P450 moxygenases as catalysts in regio- and stereoselective oxidative hydrolyzation. Chem. Commun. 51, 2028-2224 (2015).",
+    "author": "Roiban, G.-D. & Reetz, M. T.",
+    "title": "Expanding the toolbox of organic chemists: directed evolution of P450 moxygenases as catalysts in regio- and stereoselective oxidative hydrolyzation. Chem. Commun. 51, 2028-2224 (2015).",
+    "year": 2015
+  },
+  "10": {
+    "title": "Zhang, R. K. et al. Enzymatic assembly of carbon-carbon bonds via iron-catalyzed sp³-C-H functionalization. Nature 565, 67-72 (2019).",
+    "author": "Zhang, R. K.",
+    "title": "Enzymatic assembly of carbon-carbon bonds via iron-catalyzed sp³-C-H functionalization. Nature 565, 67-72 (2019).",
+    "year": 2019
+  },
+  "11": {
+    "title": "Galanie, S., Thodey, K., Trenchard, I., Filsinger Interrante, M., Smoke, C. D. Complete biosynthesis of opioids in yeast. Science 349, 1095-1100 (2015).",
+    "author": "Galanie, S., Thodey, K., Trenchard, I., Filsinger Interrante, M., Smoke, C. D.",
+    "title": "Complete biosynthesis of opioids in yeast. Science 349, 1095-1100 (2015).",
+    "year": 2015
+  },
+  "12": {
+    "title": "Biggs, B. W. et al. Overcoming heterologous protein inter-dependency to optimize P450-mediated Taxol precursor synthesis in Escherichia coli. Proc. Natl. Acad. Sci. USA 113, 3209-3214 (2016).",
+    "author": "Paddon, C. J., J. et al. High-level semi-synthetic production of the potent antimicrobial artemisinin. Nature 496, 528-532 (2013).",
+    "year": 2016
+  },
+  "13": {
+    "title": "Paddon, C. J. et al. High-level semi-synthetic production of the potent antimicrobial artemisinin. Nature 496, 528-532 (2013).",
+    "author": "Paddon, C. J. et al. High-level semi-synthetic production of the potent antimicrobial artemisinin. Nature 496, 528-532 (2013).",
+    "year": 2013
+  },
+  "14": {
+    "title": "Ajikumar, P. K. et al. Isoprenoid pathway optimization for Taxol precursor overproduction in Escherichia coli. Science 330, 70-74 (2010).",
+    "author": "Ajikumar, P. K. et al. Isoprenoid pathway optimization for Taxol precursor overproduction in Escherichia coli. Science 330, 70-74 (2010).",
+    "year": 2010
+  },
+  "15": {
+    "title": "Chang, M. C., Eaches, R. A., Trieul, W., Ro. D., K. & Keisingle, J. D. Engineering Escherichia coli for production of functionalized terpenoids using plant P450s. Nat. Chem. Biol. 3, 274-277 (2007).",
+    "author": "Chang, M. C., Eaches, R. A., Trieul, W., Ro. D., K. & Keisingle, J. D.",
+    "title": "Engineering Escherichia
+
+第 12 页：
+```json
+{
+  "articles": [
+    {
+      "title": "49. Miwa, G. T. & Lu, A. Y. The association of cytoplome C-450 and NADPH-cytochrome P-450 reductase in phospholipid membranes. Arch. Biochem. Biophys. 234, 161-166 (1984).",
+      "authors": [
+        {
+          "name": "Laursen, T. et al.",
+          "title": "Characterization of a dynamic metabolon product-ting the defense compound dhurrrin in osghum. Science 354, 890-893 (2016)."
+        },
+        {
+          "name": "Zelasko, S., S., Palaria, A. & Das, A. Optimizations to achieve high-level expression of cytoplome P-450 proteins using Escherichia coli expression systems. Protein Expr. Purif. 92, 77-87 (2013)."
+        },
+        {
+          "name": "Park, S. Y., Eun, H., Lee, M. H. & Lee, S. Y. Escherichia coli with electron channeling for the production of natural products. Nat. Catal. 5, 726-737 (2022)."
+        },
+        {
+          "name": "Nooren, I. M. & Thornton, J. M. Diversity of protein-protein interactions. EMBO J. 22, 3486-3492 (2003)."
+        },
+        {
+          "name": "Dill, K. A. Dominant forces in protein folding. Biochemistry 29, 713-7155 (1990)."
+        },
+        {
+          "name": "Newberry, R. W. & Rains, R. T. Secondary forces in protein folding. ACS Chem. Biol. Biol. 14, 1677-1686 (2019)."
+        },
+        {
+          "name": "Roel-Tours, J., Jimenez-Garcia, B. & Bonvain, A. Integrative modeling of membrane-associated protein assemblies. Nat. Commun. 11, 6210 (2020)."
+        },
+        {
+          "name": "Birch, J. et al. The fine art of integral membrane protein crystal-isation. Methods 147, 150-162 (2018)."
+        },
+        {
+          "name": "Bradford, M. M. A rapid and sensitive method for the quantification of microgram quantities of protein utilizing the principle of protein-dye binding. Anal. Biochem. 72, 248-254 (1976)."
+        },
+        {
+          "name": "Chambers, M. C. et al. A cross-platform toolkit for mass spectrometry and proteomics. Nat. Biotech. 30, 918-920 (2012)."
+        },
+        {
+          "name": "Towbin, H., Staehelk, T. & Gordon, J. E. Electrophoretic transfer of proteins from polyacrylamide gels to nitrocellulose sheets: proc- e dure and some applications. Proc. Natl. Acad. Sci. USA 76, 4350-4354 (1979)."
+        },
+        {
+          "name": "Burttelle, W. N. “Western blotting”: electrophoretic transfer of proteins from sodium dodecyl sulfate-polyacrylamide gels to polyacrylamide gels. Anal. Biochem. 112, 195-203 (1981)."
+        },
+        {
+          "name": "Alegria-Schaffer, A. Western blotting using chemiluminescent substrates. Methods Enzymol. 541, 251-259 (2014)."
+        },
+        {
+          "name": "Schneider, C. C. A., Rasband, C. & Eliceri, K. W. NIH Image to Image: 25 years of image analysis. Nat. Methods 9, 671-675 (2012)."
+        }
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "authors": [
+        {
+          "name": "Y. L. (
+

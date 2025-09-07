@@ -1,0 +1,61 @@
+=== 全文分析汇总结果 ===
+
+第 1 页：
+The provided text does not contain any tables. It is a detailed abstract of an article titled "Tuning architectural organization of eukaryotic P450 system to boost bioproduction in Escherichia coli" by Yikui Li et al., published in Nature Communications. The content discusses the engineering of cytochrome P450 enzymes for enhanced biosynthetic performance in E. coli, focusing on the use of N-termini-bridged P450-CPR heterodimers as a strategy to improve their efficiency and versatility.
+
+第 2 页：
+The provided text does not contain any tables. It is a detailed scientific article discussing the engineering of eukaryotic P450 systems for use in E. coli, focusing on the challenges and solutions related to their compatibility with the bacterial host. The text outlines the development of chimeric proteins that can functionally integrate into the bacterial cytoplasmic membrane and cytosol, while maintaining their enzymatic activity.
+
+第 3 页：
+The provided text does not contain any tables. It appears to be an abstract or summary of a scientific article discussing the effects of chimeric architectures on the biosynthetic performance of eukaryotic P450 enzymes in E. coli. If you need specific information about the figures mentioned, such as Figure 2, I can provide details about that figure based on the text provided.
+
+第 4 页：
+The provided text does not contain any tables. It appears to be an abstract or summary of a scientific article discussing the architectural organization of plant CYP73A5 and ATR2 based on self-assembled peptide bio-machinery in E. coli. The text mentions various peptides, heterodimers, and their interactions but does not include numerical data that would form a table. If you need specific information from the text, please provide more details about what you're looking for.
+
+第 5 页：
+以下是文章中表格1的内容：
+
+| Proteins | trans-Cinnamic acid* |
+|----------|-----------------------|
+| CYP73A5Δ2-28 & ATR2Δ2-77 | 68.83 ± 14.37 | 0.018 ± 0.002 | 0.26 | 1.49 ± 0.39 |
+| heterodimer (I) | 23.35 ± 5.88 | 0.198 ± 0.020 | 8.48 | 1.02 ± 0.23 |
+| heterodimer (II) | 125.62 ± 151.95 | 0.085 ± 0.035 | 0.68 | 0.78 ± 0.34 |
+| heterodimer (III) | 69.51 ± 20.16 | 0.020 ± 0.002 | 0.29 | 1.08 ± 0.24 |
+| heterodimer (IV) | 62.98 ± 15.05 | 0.881 ± 0.090 | 13.99 | 1.08 ± 0.15 |
+
+*The Hill's equation was used to fit the formation rate of p-coumaric acid to the concentrations of trans-cinnamic acid. h is the Hill coefficient. Data are shown as means ± SE (n = 3 independent experiments).
+
+第 6 页：
+以下是文章中表格2的详细内容：
+
+### Table 2 | Enzymatic assay of SpySystem-mediated CYP73A5Δ2-28-ATR2Δ2-77 heterodimers and the free-floating CYP73A5Δ2-28 and ATR2Δ2-77 at increasing concentration of NADPH
+
+| Proteins | Kₙ (μM) | kₖₚ (min⁻¹) | kₖₚ/Kₙ (M⁻¹ min⁻¹, ×10²) | h |
+|----------|----------|----------------|-------------------------|---|
+| CYP73A5Δ2-28 & ATR2Δ2-77 | 171.60 ± 7.65 | 0.041 ± 0.001 | 2.39 | 1.68 ± 0.09 |
+| heterodimer (I) | 235.91 ± 11.29 | 0.160 ± 0.005 | 6.78 | 2.84 ± 0.30 |
+| heterodimer (II) | 48.56 ± 6.81 | 0.032 ± 0.001 | 6.59 | 1.88 ± 0.58 |
+| heterodimer (III) | 64.18 ± 2.63 | 0.008 ± 0.0002 | 1.25 | 26.00 |
+| heterodimer (IV) | 261.97 ± 21.52 | 0.681 ± 0.036 | 1.97 ± 0.22 |
+
+### Notes:
+* The Hill's equation was used to fit the formation rate of p-coumaric acid to the concentrations of NADPH. h is the Hill coefficient. Data are shown as mean ± SE (n = 3 independent experiments).
+
+第 7 页：
+The article does not contain any tables. The content is presented in text form, with figures and figures showing data points but no table format.
+
+第 8 页：
+The article does not contain any tables. The content is primarily composed of text discussing the biological activity of protein assemblies, their assembly and disassembly in space, and the influence of architectural organization on metabolic channeling and bioproduction efficiency.
+
+第 9 页：
+The provided text does not contain any tables. It is a detailed article discussing the characterization and expression of engineered protein assemblies, specifically focusing on the CYP73A5 and ATR2 enzymes from plants and humans. The content covers methods for plasmid construction, bacterial strains, and the biochemical processes involved in their production and analysis.
+
+第 10 页：
+The provided text does not contain any tables. It appears to be an article abstract or summary, discussing methods and results related to mass spectrometry analysis of proteins, specifically focusing on the use of tandem mass spectrometry (MS/MS) for protein identification. The text mentions various experimental procedures such as sample preparation, mass spectrometry data acquisition, and statistical analysis, but no table is included in the given text.
+
+第 11 页：
+The provided text does not contain any tables. It is a list of references or citations from various scientific articles, with each reference numbered and linked to its corresponding article in the journal Nature Communications. The text does not include any structured data that would be represented as a table.
+
+第 12 页：
+The provided text does not contain any tables. It appears to be an article abstract or summary, discussing various scientific papers and their authors' contributions. If you need information about specific tables from the referenced articles, please provide the titles of those articles, and I can assist you further.
+

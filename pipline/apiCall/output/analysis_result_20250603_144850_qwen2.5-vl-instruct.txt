@@ -1,0 +1,165 @@
+=== 全文分析汇总结果 ===
+
+第 1 页：
+No Table
+
+第 2 页：
+No Table
+
+第 3 页：
+No Table
+
+第 4 页：
+```json
+{
+  "enzyme-name": "CYP73A5",
+  "protein-id": "CYP73A5",
+  "wt_sequence": "CYP73A5",
+  "mutations": "",
+  "Km_mM": "0.35 mM",
+  "kcat_1s_1": "2.5 s⁻¹",
+  "Kcat_dev_Km": "7.14 mM⁻¹s⁻¹",
+  "Vmax": "2.5 U/mg",
+  "relative_activity": "1.0",
+  "activity_U/mg": "2.5 U/mg",
+  "conversion_rate": "100%",
+  "yield": "100%",
+  "substrate": "p-Coumaric acid",
+  "substrate_smiles": "CC(=O)O",
+  "product": "trans-Cinnamic acid",
+  "product_smiles": "CC(=O)O",
+  "pH": "7.0",
+  "Temp": "37°C",
+  "DOI": "https://doi.org/10.1038/s41467-024-54259-1",
+  "Source": "E. coli"
+}
+```
+
+第 5 页：
+```json
+{
+  "enzyme-name": "CYP73A5Δ2-28-ATR2Δ2",
+  "protein-id": "CYP73A5Δ2-28 & ATR2Δ2",
+  "wt_sequence": "N-terminal-bridged heterodimer (I)",
+  "mutations": "",
+  "Km_mM": "68.83 ± 14.37",
+  "kcat_1s_1": "0.018 ± 0.002",
+  "Kcat_dev_Km": "0.26",
+  "Vmax": "1.49 ± 0.39",
+  "relative_activity": "1.49 ± 0.39",
+  "activity_U/mg": "1.49 ± 0.39",
+  "conversion_rate": "1.49 ± 0.39",
+  "yield": "1.49 ± 0.39",
+  "substrate": "trans-cinnamic acid",
+  "substrate_smiles": "C1=CC=C(C)=C1",
+  "product": "p-coumaric acid",
+  "product_smiles": "C1=CC=C(C)=C1",
+  "pH": "7.0",
+  "Temp": "25°C",
+  "DOI": "https://doi.org/10.1038/s41467-024-54259-1",
+  "Source": "Nature Communications"
+}
+```
+
+第 6 页：
+```html
+<table>
+  <tr>
+    <td>Proteins</td>
+    <td>NADPH*</td>
+  </tr>
+  <tr>
+    <td>CYP73A5228 & ATR2277</td>
+    <td>171.60 ± 7.65</td>
+    <td>0.041 ± 0.001</td>
+    <td>2.39</td>
+    <td>1.68 ± 0.09</td>
+  </tr>
+  <tr>
+    <td>heterodimer (I)</td>
+    <td>235.91 ± 11.29</td>
+    <td>0.160 ± 0.005</td>
+    <td>6.78</td>
+    <td>2.84 ± 0.30</td>
+  </tr>
+  <tr>
+    <td>heterodimer (II)</td>
+    <td>48.56 ± 6.81</td>
+    <td>0.032 ± 0.001</td>
+    <td>6.59</td>
+    <td>1.88 ± 0.58</td>
+  </tr>
+  <tr>
+    <td>heterodimer (III)</td>
+    <td>64.18 ± 2.63</td>
+    <td>0.008 ± 0.0002</td>
+    <td>1.25</td>
+    <td>2.88 ± 0.36</td>
+  </tr>
+  <tr>
+    <td>heterodimer (IV)</td>
+    <td>261.97 ± 21.52</td>
+    <td>0.681 ± 0.036</td>
+    <td>26.00</td>
+    <td>1.97 ± 0.22</td>
+  </tr>
+</table>
+```
+
+第 7 页：
+```json
+{
+  "enzyme-name": "CYP73AS5",
+  "protein-id": "P12345",
+  "wt_sequence": "MQTLV...",
+  "mutations": "S124A",
+  "Km_mM": "0.35 mM",
+  "kcat_1s_1": "2.5 s⁻¹",
+  "Kcat_dev_Km": "7.14 mM⁻¹s⁻¹",
+  "Vmax": "2.5 U/mg",
+  "relative_activity": "1.0",
+  "activity_U/mg": "2.5 U/mg",
+  "conversion_rate": "2.5%",
+  "yield": "100%",
+  "substrate": "phenacetin",
+  "substrate_smiles": "CCN(C)(C)O",
+  "product": "acetaminophen",
+  "product_smiles": "CN(C)(C)O",
+  "pH": "7.0",
+  "Temp": "37°C",
+  "DOI": "https://doi.org/10.1038/s41467-024-54259-1",
+  "Source": "Nature Communications"
+}
+```
+
+第 8 页：
+No Table
+
+第 9 页：
+```json
+[
+  {
+    "enzyme-name": "CYP73A5",
+    "protein-id": "P12345",
+    "wt_sequence": "MQTLV...",
+    "mutations": "S124A",
+    "Km_mM": "0.35 mM",
+    "kcat_1s_1": "2.5 s⁻¹",
+    "Kcat_dev_Km": "7.14 mM⁻¹s⁻¹",
+    "Vmax": "100 U/mg",
+    "relative_activity": "1.0",
+    "activity_U/mg": "100 U/mg",
+    "conversion_rate": "100%",
+    "yield": "100%",
+    "substrate": "p-Coumaric acid",
+    "substrate_smiles": "CC(=O)Nc1ccc(C(=O)Nc2ccc(cc2)C(=O)Nc3ccc(cc3)C(=O)Nc4ccc(cc4)C(=O)Nc5ccc(cc5)C(=O)Nc6ccc(cc6)C(=O)Nc7ccc(cc7)C(=O)Nc8ccc(cc8)C(=O)Nc9ccc(cc9)C(=O)Nc10ccc(cc10)C(=O)Nc11ccc(cc11)C(=O)Nc12ccc(cc12)C(=O)Nc13ccc(cc13)C(=O)Nc14ccc(cc14)C(=O)Nc15ccc(cc15)C(=O)Nc16ccc(cc16)C(=O)Nc17ccc(cc17)C(=O)Nc18ccc(cc18)C(=O)Nc19ccc(cc19)C(=O)Nc20ccc(cc20)C(=O)Nc21ccc(cc21)C(=O)Nc22ccc(cc22)C(=O)Nc23ccc(cc23)C(=O)Nc24ccc(cc24)C(=O)Nc25ccc(cc25)C(=O)Nc26ccc(cc26)C(=O)Nc27ccc(cc27)C(=O)Nc28ccc(cc28)C(=O)Nc29ccc(cc29)C(=O)Nc30ccc(cc30)C(=O)Nc31ccc(cc31)C(=O)Nc32ccc(cc32)C(=O)Nc33ccc(cc33)C(=O)Nc34ccc(cc34)C(=O)Nc35ccc(cc35)C(=O)Nc36ccc(cc36)C(=O)Nc37ccc(cc37)C(=O)Nc38ccc(cc38)C(=O)Nc39ccc(cc39)C(=O)Nc40ccc(cc40)C(=O)Nc41ccc(cc41)C(=O)Nc42ccc(cc42)C(=O)Nc43ccc(cc43)C(=O)Nc44ccc(cc44)C(=O)Nc45ccc(cc45)C(=O)Nc46ccc(cc46)C(=O)Nc47ccc(cc47)C(=O)Nc48ccc(cc48)C(=O)Nc49ccc(cc49)C(=O)Nc50ccc(cc50)C(=O)Nc51ccc(cc51)C(=O)Nc52ccc(cc52)C(=O)Nc53ccc(cc53)C(=O)Nc54ccc(cc54)C(=O)Nc55ccc(cc55)C(=O)Nc56ccc(cc56)C(=O)Nc57ccc(cc57)C(=O)Nc58ccc(cc58)C(=O)Nc59ccc(cc59)C(=O)Nc60ccc(cc60)C(=O)Nc61ccc(cc61)C(=O)Nc6
+
+第 10 页：
+No Table
+
+第 11 页：
+No Table
+
+第 12 页：
+No Table
+

@@ -1,0 +1,323 @@
+=== 第 1 页模型返回 ===
+To provide you with a structured analysis and reorganization of the tables based on the provided text, I need the actual tables from the paper. Since the text does not include any tables, I will create a hypothetical example based on typical enzyme kinetic parameter tables found in such studies.
+
+Let's assume there are two tables from the paper:
+
+### Table 1: Enzyme Kinetic Parameters for Wild-Type and Mutant Enzymes
+
+| Enzyme Name | Protein ID | wt_sequence | mutations | Km_mM | kcat_1s_1 | Kcat_dev_Km | Vmax | relative_activity | activity_U/mg | conversion_rate | yield | substrate | substrate_smiles | product | product_smiles | pH | Temp | DOI | Source |
+|-------------|------------|-------------|-----------|-------|-----------|-------------|------|-------------------|--------------|---------------|------|----------|------------------|--------|------------------|----|-----|-----|-------|
+| E1          | P1         |...         |...       | 0.1   | 10        | 0.1         | 100  | 1                 | 10           | 0.1           | 0.1  | S1      |...              | P1    |...              | 7.0 | 30  | 10.1234567890 | Article |
+
+| E2          | P2         |...         |...       | 0.2   | 15        | 0.2         | 150  | 1.5               | 15           | 0.2           | 0.2  | S2      |...              | P2    |...              | 7.0 | 30  | 10.1234567890 | Article |
+
+| E3          | P3         |...         |...       | 0.3   | 20        | 0.3         | 200  | 2                 | 20           | 0.3           | 0.3  | S3      |...              | P3    |...              | 7.0 | 30  | 10.1234567890 | Article |
+
+| E4          | P4         |...         |...       | 0.4   | 25        | 0.4         | 250  | 2.5               | 25           | 0.4           | 0.4  | S4      |...              | P4    |...              | 7.0 | 30  | 10.1234567890 | Article |
+
+### Table 2: Enzyme Kinetic Parameters for Wild-Type and Mutant Enzymes with Different Substrates
+
+| Enzyme Name | Protein ID | wt_sequence | mutations | Km_mM | kcat_1s_1 | Kcat_dev_Km | Vmax | relative_activity | activity_U/mg | conversion_rate | yield | substrate | substrate_smiles | product | product_smiles | pH | Temp | DOI | Source |
+|-------------|------------|-------------|-----------|-------|-----------|-------------|------|-------------------|--------------|---------------|------|----------|------------------|--------|------------------|----|-----|-----|-------|
+| E1          | P1         |...         |...       | 0.1   | 10        | 0.1         | 100  | 1                 | 10           | 0.1           | 0.1  | S1      |...              | P1    |...              | 7.0 | 30  | 10.1234567890 | Article |
+| E1          | P1         |...         |...       | 0.1   | 10        | 0.1         | 100  | 1                 | 10           | 0.1           | 0.1  | S2      |...              | P1    |...              | 7.0 | 30  | 10.1234567890 | Article |
+| E1          | P1         |...         |...       | 0.1   | 10        | 0.1         | 100  | 1                 | 10           | 0.1           | 0.1  | S3      |...              | P1    |...              | 7.0 | 30  |
+
+=== 第 2 页模型返回 ===
+It seems you've provided an excerpt from a scientific article discussing advancements in predicting enzyme kinetic parameters using machine learning and deep learning techniques. However, there isn't any specific table or data provided in your excerpt that I can directly analyze and reorganize according to the instructions you've given.
+
+If you have a specific table from the paper that you'd like me to analyze and reorganize, please provide it along with the necessary details about the enzyme catalysis activities mentioned in the table. Once I have the actual table, I can help you reorganize it according to the specified columns and fill in the relevant information based on the document's content.
+
+If you're looking for general guidance on how to approach analyzing and reorganizing tables related to enzyme catalysis activities, here’s a step-by-step guide:
+
+### Step-by-Step Guide to Analyzing and Reorganizing Tables
+
+1. **Identify the Table**: Locate the table in the document that contains enzyme catalysis activity data.
+2. **Extract Relevant Data**: Identify the columns that correspond to enzyme catalysis activities such as `kcat`, `Km`, `relative activity`, `yield`, `conversion rate`, etc.
+3. **Reorganize the Table**:
+    - **Rows**: Each row should represent a sample (mutant or wild-type enzyme).
+    - **Columns**: Ensure all the relevant enzyme catalysis activities are included in separate columns.
+4. **Fill in Additional Information**: Include additional columns such as `protein-id`, `wt_sequence`, `mutations`, `substrate`, `substrate_smiles`, `product`, `product_smiles`, `pH`, `Temp`, `DOI`, and `Source` as specified.
+5. **Verify Data Consistency**: Ensure that the data entered matches the information provided in the document.
+
+### Example of Reorganized Table Format
+
+| enzyme-name | protein-id | wt_sequence | mutations | Km_mM | kcat_1s_1 | Kcat_dev_Km | Vmax | relative_activity | activity_U/mg | conversion_rate | yield | substrate | substrate_smiles | product | product_smiles | pH | Temp | DOI | Source |
+|-------------|------------|-------------|-----------|-------|-----------|-------------|------|-------------------|--------------|---------------|------|----------|------------------|--------|------------------|----|------|-----|-------|
+| EnzymeA     | P00001     |...         |...       | 0.1   | 10        | 0.05        | 100  | 1.2              | 10           | 0.8            | 0.9  | SubstrateA |...             | ProductA |...               | 7.0 | 37°C |... |...   |
+| EnzymeB     | P00002     |...         |...       | 0.2   | 15        | 0.1         | 150  | 1.5              | 15           | 0.9            | 0.8  | SubstrateB |...             | ProductB |...               | 7.0 | 37°C |... |...   |
+
+### Steps to Fill in the Information
+
+1. **Identify Enzyme Names and Protein IDs**: Look for the enzyme names and corresponding protein IDs in the document.
+2. **Extract Mutations**: Note down the mutations for each enzyme.
+3. **Extract Activity Data**: Extract the `Km_mM`, `kcat_1s_1`, `Kcat_dev_Km`, `Vmax`, `relative_activity`, `activity_U/mg`, `conversion_rate`, `yield`, `substrate`, `substrate_smiles`, `product`, `product_smiles`, `pH`, `Temp`, `DOI`, and `Source` from the document.
+4. **Fill in the Table**: Enter the extracted data into the reorganized table format.
+
+If you provide the specific table you want analyzed, I can assist you in filling in the table with the correct information.
+
+=== 第 3 页模型返回 ===
+Based on the provided text, it seems there are no tables directly related to enzyme catalysis activities (such as kcat, km, relative activity, yield, conversion rate) that can be reorganized according to the specified format. The text discusses the performance of UniKP in predicting enzyme kcat values and its ability to distinguish between wild-type and mutant enzymes, but does not provide specific data tables with detailed enzyme activities.
+
+If you have a specific table or dataset that you would like me to analyze and reorganize, please provide the relevant information, and I will assist you accordingly.
+
+=== 第 4 页模型返回 ===
+Based on the provided text, it seems there isn't a direct table to reorganize as described in the instruction. Instead, the text discusses a methodological approach to predict enzyme catalysis activities, particularly focusing on kcat values, and evaluates the performance of different models under various conditions.
+
+However, if you have specific tables from the paper that need to be reorganized according to the criteria mentioned, I would need those tables to proceed. If you provide the tables, I can help you reorganize them according to the specified columns and fill in the relevant information based on the details provided in the text.
+
+For now, let's assume you have a table like the one below:
+
+| Enzyme Name | Protein ID | wt_sequence | mutations | Km_mM | kcat_1s_1 | Kcat_dev_Km | Vmax | relative_activity | activity_U/mg | conversion_rate | yield | substrate | substrate_smiles | product | product_smiles | pH | Temp | DOI | Source |
+|-------------|------------|-------------|-----------|--------|------------|--------------|------|-------------------|---------------|----------------|------|----------|------------------|--------|------------------|----|-----|-----|-------|
+| E1          | P1         |...         |...       | 0.1    | 100        | 0.05         | 1000 | 1                 | 10            | 0.9            | 0.8  | S1      |...              | P1    |...              | 7   | 30  |... |...   |
+| E2          | P2         |...         |...       | 0.2    | 150        | 0.1          | 1200 | 1.5               | 15            | 0.8            | 0.7  | S2      |...              | P2    |...              | 7   | 30  |... |...   |
+
+If you could provide the actual tables, I can help you reorganize them accordingly.
+
+=== 第 5 页模型返回 ===
+It seems you've provided some context about an article discussing enzyme catalysis activity predictions using UniKP, but there's no actual table data included in your prompt. To proceed with the task of reorganizing tables related to enzyme catalysis activity, I'll need the specific tables from the document.
+
+However, I can illustrate how you might reorganize the tables based on the information you've given. Let's assume we have a table like the one below:
+
+| Enzyme Name | Protein ID | wt_sequence | mutations | Km_mM | kcat_1s_1 | Kcat_dev_Km | Vmax | relative_activity | activity_U/mg | conversion_rate | yield | substrate | substrate_smiles | product | product_smiles | pH | Temp | DOI | Source |
+|-------------|------------|-------------|-----------|-------|-----------|-------------|------|-------------------|--------------|---------------|------|----------|------------------|--------|------------------|----|-----|-----|-------|
+| E1          | P1         |...         |...       | 0.1   | 10        | 0.05        | 100  | 0.8              | 10           | 0.7            | 0.9  | S1      |...             | P1    |...               | 7.0 | 37°C |... |...   |
+| E2          | P2         |...         |...       | 0.2   | 15        | 0.03        | 120  | 0.9              | 15           | 0.8            | 0.9  | S2      |...             | P2    |...               | 7.0 | 37°C |... |...   |
+
+Here’s how you would reorganize it according to the new column names:
+
+1. **Enzyme Name**: E1, E2
+2. **Protein ID**: P1, P2
+3. **wt_sequence**: (not provided)
+4. **mutations**: (not provided)
+5. **Km_mM**: 0.1, 0.2
+6. **kcat_1s_1**: 10, 15
+7. **Kcat_dev_Km**: 0.05, 0.03
+8. **Vmax**: 100, 120
+9. **relative_activity**: 0.8, 0.9
+10. **activity_U/mg**: 10, 15
+11. **conversion_rate**: 0.7, 0.8
+12. **yield**: 0.9, 0.9
+13. **substrate**: S1, S2
+14. **substrate_smiles**: (not provided)
+15. **product**: P1, P2
+16. **product_smiles**: (not provided)
+17. **pH**: 7.0, 7.0
+18. **Temp**: 37°C, 37°C
+19. **DOI**: (not provided)
+20. **Source**: (not provided)
+
+If you provide the actual tables from the document, I can help you reorganize them accordingly.
+
+=== 第 6 页模型返回 ===
+To analyze the given text and reorganize the tables according to the specified criteria, we need to extract relevant information from the text and fill in the provided table headers. Since the text does not provide specific tables or detailed data, I will create hypothetical tables based on the information given.
+
+### Hypothetical Table 1: Enzyme Catalysis Activity
+
+| enzyme-name | protein-id | wt_sequence | mutations | Km_mM | kcat_1s_1 | Kcat_dev_Km | Vmax | relative_activity | activity_U/mg | conversion_rate | yield | substrate | substrate_smiles | product | product_smiles | pH | Temp | DOI | Source |
+|-------------|------------|-------------|-----------|--------|------------|--------------|------|-------------------|---------------|----------------|------|----------|------------------|-------|------------------|----|-----|-----|-------|
+| E1          | P1         |...         |...       | 0.1    | 100        | 0.01         | 100  | 1                 | 10            | 0.9            | 0.8  | S1       |...              | P1   |...              | 7.0 | 37°C | 10.1038/s41467-023-44113-1 | Nature Communications |
+
+### Hypothetical Table 2: Enzyme Catalysis Activity
+
+| enzyme-name | protein-id | wt_sequence | mutations | Km_mM | kcat_1s_1 | Kcat_dev_Km | Vmax | relative_activity | activity_U/mg | conversion_rate | yield | substrate | substrate_smiles | product | product_smiles | pH | Temp | DOI | Source |
+|-------------|------------|-------------|-----------|--------|------------|--------------|------|-------------------|---------------|----------------|------|----------|------------------|-------|------------------|----|-----|-----|-------|
+| E2          | P2         |...         |...       | 0.2    | 150        | 0.02         | 150  | 1.5               | 15             | 0.95           | 0.9  | S2       |...              | P2   |...              | 7.2 | 35°C | 10.1038/s41467-023-44113-1 | Nature Communications |
+
+### Analysis and Notes:
+
+1. **Enzyme Names and Protein IDs**: These are placeholders and should be replaced with actual enzyme names and protein IDs from the original tables.
+2. **Mutations**: These should be listed for each enzyme variant.
+3. **Km_mM**: Michaelis-Menten constant in mM.
+4. **kcat_1s_1**: Turnover number in s^-1.
+5. **Kcat_dev_Km**: Deviation of kcat from Km.
+6. **Vmax**: Maximum velocity in arbitrary units.
+7. **Relative_activity**: Relative activity compared to the wild-type enzyme.
+8. **activity_U/mg**: Activity in U/mg of enzyme.
+9. **Conversion_rate**: Conversion rate of the substrate.
+10. **yield**: Yield of the product.
+11. **substrate**: Name of the substrate.
+12. **substrate_smiles**: SMILES notation of the substrate.
+13. **product**: Name of the product.
+14. **product_smiles**: SMILES notation of the product.
+15. **pH**: pH condition.
+16. **Temp**: Temperature condition.
+17. **DOI**: Digital Object Identifier.
+18. **Source**: Source of the data.
+
+### Subdivision of High kcat Values
+
+Since the text mentions subdividing high kcat values into two numerical intervals (higher than 5 and between 4 and 5), we would need to apply this criterion to the hypothetical tables above. However, without specific data, it's impossible to determine which entries fall into which interval.
+
+### Conclusion
+
+The analysis and reorganization of the tables are based on the hypothetical data extracted from the given text. To complete this task accurately, you would need the actual tables and data from the original source.
+
+=== 第 7 页模型返回 ===
+Based on the provided text, it seems there isn't a direct table to reorganize as described in your request. Instead, the text provides information about the study's methodology, the selection of TAL enzymes, and the results of the experiments. To reorganize the tables according to your instructions, I would need actual tables from the document.
+
+However, I can provide a general outline of how you might structure the tables based on the information given:
+
+### Table 1: Expression and Catalytic Activity of RgTAL Analogues
+
+| Enzyme Name | Protein ID | wt_sequence | Mutations | Km_mM | kcat_1s_1 | Kcat_dev_Km | Vmax | relative_activity | activity_U/mg | conversion_rate | yield | substrate | substrate_smiles | product | product_smiles | pH | Temp | DOI | Source |
+|-------------|------------|-------------|-----------|--------|------------|--------------|------|-------------------|--------------|---------------|------|----------|------------------|-------|------------------|----|-----|-----|-------|
+| RgTAL       |            |             |           |        |            |              |      |                  |               |                |      |          |                   |      |                   |    |     |     |       |
+| AsTAL       |            |             |           |        |            |              |      |                  |               |                |      |          |                   |      |                   |    |     |     |       |
+
+### Table 2: Single-Point Mutations of RgTAL
+
+| Enzyme Name | Protein ID | wt_sequence | Mutations | Km_mM | kcat_1s_1 | Kcat_dev_Km | Vmax | relative_activity | activity_U/mg | conversion_rate | yield | substrate | substrate_smiles | product | product_smiles | pH | Temp | DOI | Source |
+|-------------|------------|-------------|-----------|--------|------------|--------------|------|-------------------|--------------|---------------|------|----------|------------------|-------|------------------|----|-----|-----|-------|
+| RgTAL-10Y   |            |             |           |        |            |              |      |                  |               |                |      |          |                   |      |                   |    |     |     |       |
+| RgTAL-489T  |            |             |           |        |            |              |      |                  |               |                |      |          |                   |      |                   |    |     |     |       |
+
+### Table 3: Wet-Lab Experimental Validation Against TALclu
+
+| Enzyme Name | Protein ID | wt_sequence | Mutations | Km_mM | kcat_1s_1 | Kcat_dev_Km | Vmax | relative_activity | activity_U/mg | conversion_rate | yield | substrate | substrate_smiles | product | product_smiles | pH | Temp | DOI | Source |
+|-------------|------------|-------------|-----------|--------|------------|--------------|------|-------------------|--------------|---------------|------|----------|------------------|-------|------------------|----|-----|-----|-------|
+| HiTAL       |            |             |           |        |            |              |      |                  |               |                |      |          |                   |      |                   |    |     |     |       |
+| TrTAL       |            |             |           |        |            |              |      |                  |               |                |      |          |                   |      |                   |    |     |     |       |
+
+### Notes:
+- **Enzyme Name**: The name of the enzyme (e.g., RgTAL, AsTAL, etc.).
+- **Protein ID**: The protein identifier (if available).
+- **wt_sequence**: The wild-type sequence of the enzyme.
+- **Mutations**: The specific mutations introduced in the enzyme.
+- **Km_mM**: The Michaelis-Menten constant in millimolar units.
+- **kcat_1s_1**: The turnover number in seconds^-1.
+- **Kcat_dev_Km**: The ratio of kcat to Km.
+- **Vmax**: The maximum velocity.
+- **relative_activity**: The relative activity compared to the wild-type enzyme.
+- **activity_U/mg**: The activity in units per milligram of enzyme.
+- **conversion_rate**: The conversion rate of the substrate.
+- **yield**: The yield of the product.
+- **substrate**: The name of the substrate.
+- **substrate_smiles**: The SMILES notation of the substrate.
+- **product**: The name of the product.
+- **product_smiles**: The SMILES notation of the product.
+- **pH**: The pH condition of the reaction.
+- **Temp**: The temperature of the reaction.
+- **DOI**: Digital Object Identifier of the
+
+=== 第 8 页模型返回 ===
+Based on the provided text and the tables, here's how you would reorganize the tables to fit the specified columns:
+
+### Table 1 | UniKP and EF-UniKP assisted enzyme mining and evolution
+
+| enzyme-name | protein-id | wt_sequence | mutations | Km_mM | kcat_1s_1 | Kcat_dev_Km | Vmax | relative_activity | activity_U/mg | conversion_rate | yield | substrate | substrate_smiles | product | product_smiles | pH | Temp | DOI | Source |
+|-------------|------------|-------------|-----------|--------|-----------|-------------|------|-------------------|--------------|---------------|------|----------|------------------|-------|------------------|----|-----|-----|-------|
+| RgTAL       |            |             |           | 0.36   | 117.8     |             |      |                  |               |                |      | Tyrosine ammonia lyase | | | | | | |
+| HiTAL       | XP_009553370.1 |             |           |        |          |             |      |                  |               |                |      | Tyrosine ammonia lyase | | | | | | |
+| PcTAL       | PLW06342.1  |             |           | 0.17   | 66.57     |             |      |                  |               |                |      | Tyrosine ammonia lyase | | | | | | |
+| SsTAL       | CEQ38810.1  |             |           | 0.17   | 58.87     |             |      |                  |               |                |      | Tyrosine ammonia lyase | | | | | | |
+| AsTAL       | BK74450.1   |             |           | 0.54   | 448.8     |             |      |                  |               |                |      | Tyrosine ammonia lyase | | | | | | |
+| IsTAL       | KAH6995648.1|             |           | 0.57   | 119.7     |             |      |                  |               |                |      | Tyrosine ammonia lyase | | | | | | |
+
+### Table 2 | Kinetic characteristics of RgTAL and mutants generated by UniKP
+
+| enzyme-name | protein-id | wt_sequence | mutations | Km_mM | kcat_1s_1 | Kcat_dev_Km | Vmax | relative_activity | activity_U/mg | conversion_rate | yield | substrate | substrate_smiles | product | product_smiles | pH | Temp | DOI | Source |
+|-------------|------------|-------------|-----------|--------|-----------|-------------|------|-------------------|--------------|---------------|------|----------|------------------|-------|------------------|----|-----|-----|-------|
+| RgTAL       |            |             |           | 0.36   | 117.8     |             |      |                  |               |                |      | Tyrosine ammonia lyase | | | | | | |
+| MT-613P     |            |             |           |        |          |             |      |                  |               |                |      | Tyrosine ammonia lyase | | | | | | |
+| MT-603P     |            |             |           | 1.15   | 52.57     |             |      |                  |               |                |      | Tyrosine ammonia lyase | | | | | | |
+| MT-366H     |            |             |           | 0.48   | 40.31     |             |      |                  |               |                |      | Tyrosine ammonia lyase | | | | | | |
+| MT-366W     |            |             |           | 0.85   | 31.02     |             |      |                  |               |                |      | Tyrosine ammonia lyase | | | | | | |
+| MT-587V     |            |             |           | 0.33   | 162.9     |             |      |                  |               |                |      | Tyrosine ammonia lyase | | | | | | |
+| MT-10Y      |            |             |           | 0.82   | 884.4     |             |      |                  |               |                |      | Tyrosine ammonia lyase | | | | | | |
+| MT-337C     |            |             |           | 6.4
+
+=== 第 9 页模型返回 ===
+Based on the provided text, it seems that the document discusses the development and evaluation of the UniKP framework for predicting enzyme kinetic parameters like kcat and Km. However, the text does not provide specific tables or detailed data to reorganize according to your request. Instead, it provides background information on the UniKP framework, its datasets, and the methods used.
+
+If you have specific tables from the document that you want me to analyze and reorganize, please share them, and I will assist you in reformatting them according to the specified columns. If you need help understanding any part of the text or have questions about the UniKP framework, feel free to ask!
+
+=== 第 10 页模型返回 ===
+It seems you've provided a lot of context about the research methodology and results but not the actual tables themselves. Since the task requires analyzing specific tables and reorganizing them according to certain criteria, I'll need the actual tables to proceed.
+
+However, I can guide you on how to approach this task once you provide the tables:
+
+1. **Identify the Tables**: Locate the tables in the document that contain data related to enzyme catalysis activity. These might include tables listing various enzymes, their activities, and possibly other relevant parameters like Km, kcat, relative activity, yield, conversion rate, etc.
+
+2. **Extract Relevant Data**: For each table, extract the following information:
+   - Enzyme name
+   - Protein ID
+   - Wild-type sequence
+   - Mutations (if applicable)
+   - Km (Michaelis-Menten constant)
+   - kcat (catalytic constant)
+   - Kcat/dev/Km ratio
+   - Vmax (maximum velocity)
+   - Relative activity
+   - Activity (U/mg)
+   - Conversion rate
+   - Yield
+   - Substrate
+   - Substrate SMILES
+   - Product
+   - Product SMILES
+   - pH
+   - Temp
+   - DOI
+   - Source
+
+3. **Reorganize the Tables**: Create new tables with the columns mentioned above. Each row should represent a sample (either a wild-type enzyme or a mutant enzyme).
+
+If you could share the tables, I can help you reorganize them accordingly.
+
+=== 第 11 页模型返回 ===
+To reorganize the tables according to your instructions, I'll need the actual tables from the document you're referring to. Since the text provided does not include any tables, I cannot directly reorganize them. However, I can guide you on how to do it once you provide the tables.
+
+Here's a general outline of what you should do:
+
+1. **Identify the Enzyme Names**: List all the enzyme names (mutants or wild-type enzymes) in the first column of the new table.
+2. **List Protein IDs**: Include the protein IDs next to each enzyme name.
+3. **Include Wild-Type Sequence**: If applicable, add the wild-type sequence for reference.
+4. **Mutations**: List the mutations for each enzyme.
+5. **Km Values**: Add the Km values for each enzyme.
+6. **kcat Values**: Add the kcat values for each enzyme.
+7. **Kcat Deviation Over Km**: Calculate and add the deviation of kcat over Km for each enzyme.
+8. **Vmax**: Include the Vmax values for each enzyme.
+9. **Relative Activity**: Add the relative activity for each enzyme.
+10. **Activity (U/mg)**: Include the activity in U/mg for each enzyme.
+11. **Conversion Rate**: Add the conversion rate for each enzyme.
+12. **Yield**: Include the yield for each enzyme.
+13. **Substrate and Product**: Add the substrates and products along with their SMILES codes.
+14. **pH and Temp**: Include the pH and temperature conditions for the assays.
+15. **DOI and Source**: Add the DOI and source information.
+
+Once you have the tables, you can follow this structure to reorganize them. If you provide the tables, I can help you fill in the details based on the information given in the document.
+
+=== 第 12 页模型返回 ===
+由于您提供的信息中并未包含具体的表格内容，我无法直接对表格进行重排。不过，我可以根据您描述的表格结构和要求来指导您如何重新组织表格数据。假设我们有一个表格如下：
+
+| Enzyme Name | Protein ID | wt_sequence | mutations | Km_mM | kcat_1s_1 | Kcat_dev_Km | Vmax | relative_activity | activity_U/mg | conversion_rate | yield | substrate | substrate_smiles | product | product_smiles | pH | Temp | DOI | Source |
+|-------------|------------|-------------|-----------|--------|-----------|--------------|------|-------------------|--------------|---------------|-------|----------|------------------|--------|------------------|----|-----|-----|-------|
+| Example Enzyme | P0A230     |...         |...       | 0.1    | 10        | 0.05         | 100  | 0.8              | 10           | 0.9            | 0.8   | Glucose  |...             | Pyruvate |...             | 7.0 | 37°C |... |...   |
+
+请按照以下步骤重新组织表格：
+
+1. **确定每行代表一个样本**：每一行代表一个酶（野生型或突变体）。
+2. **提取关键信息**：将每列的关键信息提取出来，并确保每列对应正确的标题。
+
+假设原始表格中的数据如下：
+
+| Enzyme Name | Protein ID | wt_sequence | mutations | Km_mM | kcat_1s_1 | Kcat_dev_Km | Vmax | relative_activity | activity_U/mg | conversion_rate | yield | substrate | substrate_smiles | product | product_smiles | pH | Temp | DOI | Source |
+|-------------|------------|-------------|-----------|--------|-----------|--------------|------|-------------------|--------------|---------------|-------|----------|------------------|--------|------------------|----|-----|-----|-------|
+| Example Enzyme | P0A230     |...         |...       | 0.1    | 10        | 0.05         | 100  | 0.8              | 10           | 0.9            | 0.8   | Glucose  |...             | Pyruvate |...             | 7.0 | 37°C |... |...   |
+| Example Mutant | P0A231     |...         |...       | 0.2    | 12        | 0.06         | 120  | 0.9              | 12           | 0.95           | 0.9   | Glucose  |...             | Pyruvate |...             | 7.0 | 37°C |... |...   |
+
+重新组织后的表格应为：
+
+| enzyme-name | protein-id | wt_sequence | mutations | Km_mM | kcat_1s_1 | Kcat_dev_Km | Vmax | relative_activity | activity_U/mg | conversion_rate | yield | substrate | substrate_smiles | product | product_smiles | pH | Temp | DOI | Source |
+|-------------|------------|-------------|-----------|--------|-----------|--------------|------|-------------------|--------------|---------------|-------|----------|------------------|--------|------------------|----|-----|-----|-------|
+| Example Enzyme | P0A230     |...         |...       | 0.1    | 10        | 0.05         | 100  | 0.8              | 10           | 0.9            | 0.8   | Glucose  |...             | Pyruvate |...             | 7.0 | 37°C |... |...   |
+| Example Mutant | P0A231     |...         |...       | 0.2    | 12        | 0.06         | 120  | 0.9              | 12           | 0.95           | 0.9   | Glucose  |...             | Pyruvate |...             | 7.0 | 37°C |... |...   |
+
+请注意，实际操作时需要根据具体的数据填充每个单元格。如果您能提供具体的表格内容，我可以帮助您更准确地完成表格重排。
+
+=== 第 13 页模型返回 ===
+It seems there was a misunderstanding. The text provided does not contain tables or specific data related to enzyme catalysis activities. Instead, it appears to be a list of references and acknowledgments from a scientific publication. Since there are no tables to reorganize according to the specified criteria, I cannot generate the requested tables.
+
+However, if you have a specific table from the document that you would like me to analyze and reorganize, please provide the table details, and I can assist you accordingly.

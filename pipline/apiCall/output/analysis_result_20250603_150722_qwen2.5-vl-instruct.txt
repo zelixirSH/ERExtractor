@@ -1,0 +1,645 @@
+=== 全文分析汇总结果 ===
+
+第 1 页：
+No Table
+
+第 2 页：
+```json
+{
+  "table_cells": [
+    [
+      "Proteins",
+      "trans-Cinnamic acid",
+      "trans-Cinnamic acid",
+      "trans-Cinnamic acid",
+      "trans-Cinnamic acid"
+    ],
+    [
+      "Proteins",
+      "Km (μM)",
+      "kcat (min⁻¹)",
+      "kcat/Km (M⁻¹·min⁻¹·×10³)",
+      "h"
+    ],
+    [
+      "CYP73A5<sup>Δ2–28</sup> & ATR2<sup>Δ2–77</sup>",
+      "68.83 ± 14.37",
+      "0.018 ± 0.002",
+      "0.26",
+      "1.49 ± 0.39"
+    ],
+    [
+      "heterodimer (I)",
+      "23.35 ± 5.88",
+      "0.198 ± 0.020",
+      "8.48",
+      "1.02 ± 0.23"
+    ],
+    [
+      "heterodimer (II)",
+      "125.62 ± 151.95",
+      "0.085 ± 0.035",
+      "0.68",
+      "0.78 ± 0.34"
+    ],
+    [
+      "heterodimer (III)",
+      "69.51 ± 20.16",
+      "0.020 ± 0.002",
+      "0.29",
+      "1.08 ± 0.24"
+    ],
+    [
+      "heterodimer (IV)",
+      "62.98 ± 15.05",
+      "0.881 ± 0.090",
+      "13.99",
+      "1.08 ± 0.15"
+    ]
+  ]
+}
+```
+
+第 3 页：
+```json
+{
+  "table_cells": [
+    [
+      "Proteins",
+      "trans-Cinnamic acid",
+      "trans-Cinnamic acid",
+      "trans-Cinnamic acid",
+      "trans-Cinnamic acid"
+    ],
+    [
+      "Proteins",
+      "Km (μM)",
+      "kcat (min⁻¹)",
+      "kcat/Km (M⁻¹·min⁻¹·×10³)",
+      "h"
+    ],
+    [
+      "CYP73A5Δ2–28 & ATR2Δ2–77",
+      "68.83 ± 14.37",
+      "0.018 ± 0.002",
+      "0.26",
+      "1.49 ± 0.39"
+    ],
+    [
+      "heterodimer (i)",
+      "23.35 ± 5.88",
+      "0.198 ± 0.020",
+      "8.48",
+      "1.02 ± 0.23"
+    ],
+    [
+      "heterodimer (ii)",
+      "125.62 ± 151.95",
+      "0.085 ± 0.035",
+      "0.68",
+      "0.78 ± 0.34"
+    ],
+    [
+      "heterodimer (iii)",
+      "69.51 ± 20.16",
+      "0.020 ± 0.002",
+      "0.29",
+      "1.08 ± 0.24"
+    ],
+    [
+      "heterodimer (iv)",
+      "62.98 ± 15.05",
+      "0.881 ± 0.090",
+      "13.99",
+      "1.08 ± 0.15"
+    ]
+  ]
+}
+```
+
+第 4 页：
+```json
+{
+  "table_cells": [
+    [
+      "heterodimer (I)",
+      "23.35 ± 5.88",
+      "0.198 ± 0.020",
+      "8.48",
+      "1.02 ± 0.23"
+    ],
+    [
+      "heterodimer (II)",
+      "125.62 ± 151.95",
+      "0.085 ± 0.035",
+      "0.68",
+      "0.78 ± 0.34"
+    ],
+    [
+      "heterodimer (III)",
+      "69.51 ± 20.16",
+      "0.020 ± 0.002",
+      "0.29",
+      "1.08 ± 0.24"
+    ],
+    [
+      "heterodimer (IV)",
+      "62.98 ± 15.05",
+      "0.881 ± 0.090",
+      "13.99",
+      "1.08 ± 0.15"
+    ]
+  ]
+}
+```
+
+第 5 页：
+```json
+{
+  "table_cells": [
+    [
+      "Proteins",
+      "trans-Cinnamic acid",
+      "Km (μM)",
+      "kcat (min⁻¹)",
+      "kcat/Km (M⁻¹·min⁻¹·×10³)",
+      "h"
+    ],
+    [
+      "CYP73A5Δ2–28 & ATR2Δ2–77",
+      "",
+      68.83 ± 14.37,
+      0.018 ± 0.002,
+      0.26,
+      1.49 ± 0.39
+    ],
+    [
+      "heterodimer (I)",
+      "",
+      23.35 ± 5.88,
+      0.198 ± 0.020,
+      8.48,
+      1.02 ± 0.23
+    ],
+    [
+      "heterodimer (II)",
+      "",
+      125.62 ± 151.95,
+      0.085 ± 0.035,
+      0.68,
+      0.78 ± 0.34
+    ],
+    [
+      "heterodimer (III)",
+      "",
+      69.51 ± 20.16,
+      0.020 ± 0.002,
+      0.29,
+      1.08 ± 0.24
+    ],
+    [
+      "heterodimer (IV)",
+      "",
+      62.98 ± 15.05,
+      0.881 ± 0.090,
+      13.99,
+      1.08 ± 0.15
+    ]
+  ]
+}
+```
+
+第 6 页：
+```json
+{
+  "table_cells": [
+    [
+      "Proteins",
+      "NADPH* (μM)",
+      "k<sub>c</sub> (min<sup>-1</sup>)",
+      "k<sub>cat</sub>/K<sub>m</sub> (M<sup>-1</sup> min<sup>-1</sup> × 10<sup>3</sup>)",
+      "h"
+    ],
+    [
+      "CYP73A5<sup>Δ2–28</sup> & ATR2<sup>Δ2–77</sup>",
+      "171.60 ± 7.65",
+      "0.041 ± 0.001",
+      "2.39",
+      "1.68 ± 0.09"
+    ],
+    [
+      "heterodimer (I)",
+      "235.91 ± 11.29",
+      "0.160 ± 0.005",
+      "6.78",
+      "2.84 ± 0.30"
+    ],
+    [
+      "heterodimer (II)",
+      "48.56 ± 6.81",
+      "0.032 ± 0.001",
+      "6.59",
+      "1.88 ± 0.58"
+    ],
+    [
+      "heterodimer (III)",
+      "64.18 ± 2.63",
+      "0.008 ± 0.002",
+      "1.25",
+      "2.88 ± 0.36"
+    ],
+    [
+      "heterodimer (IV)",
+      "261.97 ± 21.52",
+      "0.681 ± 0.036",
+      "26.00",
+      "1.97 ± 0.22"
+    ]
+  ]
+}
+```
+
+第 7 页：
+```json
+{
+  "table_cells": [
+    [
+      "Heterodimer",
+      "IV",
+      "V",
+      "VI",
+      "VII",
+      "M",
+      "8RP",
+      "VIII",
+      "IX",
+      "X",
+      "XI",
+      "XII"
+    ],
+    [
+      "Titer (mg L⁻¹)",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "a",
+      "b",
+      "c",
+      "bcd",
+      "b",
+      "bc"
+    ],
+    [
+      "Phenacetin",
+      "68.83 ± 14.37",
+      "23.35 ± 5.88",
+      "125.62 ± 151.95",
+      "69.51 ± 20.16",
+      "62.98 ± 15.05",
+      "a",
+      "b",
+      "c",
+      "bcd",
+      "b",
+      "bc"
+    ],
+    [
+      "Acetaminophen",
+      "0.018 ± 0.002",
+      "0.198 ± 0.020",
+      "0.085 ± 0.035",
+      "0.020 ± 0.002",
+      "0.881 ± 0.090",
+      "a",
+      "b",
+      "c",
+      "bcd",
+      "b",
+      "bc"
+    ],
+    [
+      "NADPH",
+      "0.26",
+      "8.48",
+      "0.68",
+      "0.29",
+      "13.99",
+      "a",
+      "b",
+      "c",
+      "bcd",
+      "b",
+      "bc"
+    ],
+    [
+      "NADP⁺",
+      "1.49 ± 0.39",
+      "1.02 ± 0.23",
+      "0.78 ± 0.34",
+      "1.08 ± 0.24",
+      "1.08 ± 0.15",
+      "a",
+      "b",
+      "c",
+      "bcd",
+      "b",
+      "bc"
+    ]
+  ]
+}
+```
+
+第 8 页：
+```json
+{
+  "table_cells": [
+    [
+      "Proteins",
+      "trans-Cinnamic acid",
+      "trans-Cinnamic acid",
+      "trans-Cinnamic acid",
+      "trans-Cinnamic acid"
+    ],
+    [
+      "Proteins",
+      "Km (μM)",
+      "kcat (min⁻¹)",
+      "kcat/Km (M⁻¹·min⁻¹·×10³)",
+      "h"
+    ],
+    [
+      "CYP73A5Δ2–28 & ATR2Δ2–77",
+      "68.83 ± 14.37",
+      "0.018 ± 0.002",
+      "0.26",
+      "1.49 ± 0.39"
+    ],
+    [
+      "heterodimer (I)",
+      "23.35 ± 5.88",
+      "0.198 ± 0.020",
+      "8.48",
+      "1.02 ± 0.23"
+    ],
+    [
+      "heterodimer (II)",
+      "125.62 ± 151.95",
+      "0.085 ± 0.035",
+      "0.68",
+      "0.78 ± 0.34"
+    ],
+    [
+      "heterodimer (III)",
+      "69.51 ± 20.16",
+      "0.020 ± 0.002",
+      "0.29",
+      "1.08 ± 0.24"
+    ],
+    [
+      "heterodimer (IV)",
+      "62.98 ± 15.05",
+      "0.881 ± 0.090",
+      "13.99",
+      "1.08 ± 0.15"
+    ]
+  ]
+}
+```
+
+第 9 页：
+```json
+{
+  "table_cells": [
+    [
+      "Proteins",
+      "trans-Cinnamic acid",
+      "trans-Cinnamic acid",
+      "trans-Cinnamic acid",
+      "trans-Cinnamic acid"
+    ],
+    [
+      "Proteins",
+      "Km (μM)",
+      "kcat (min⁻¹)",
+      "kcat/Km (M⁻¹·min⁻¹·×10³)",
+      "h"
+    ],
+    [
+      "CYP73A5Δ2–28 & ATR2Δ2–77",
+      "68.83 ± 14.37",
+      "0.018 ± 0.002",
+      "0.26",
+      "1.49 ± 0.39"
+    ],
+    [
+      "heterodimer (I)",
+      "23.35 ± 5.88",
+      "0.198 ± 0.020",
+      "8.48",
+      "1.02 ± 0.23"
+    ],
+    [
+      "heterodimer (II)",
+      "125.62 ± 151.95",
+      "0.085 ± 0.035",
+      "0.68",
+      "0.78 ± 0.34"
+    ],
+    [
+      "heterodimer (III)",
+      "69.51 ± 20.16",
+      "0.020 ± 0.002",
+      "0.29",
+      "1.08 ± 0.24"
+    ],
+    [
+      "heterodimer (IV)",
+      "62.98 ± 15.05",
+      "0.881 ± 0.090",
+      "13.99",
+      "1.08 ± 0.15"
+    ]
+  ]
+}
+```
+
+第 10 页：
+```json
+{
+  "table_cells": [
+    [
+      "Proteins",
+      "trans-Cinnamic acid",
+      "trans-Cinnamic acid",
+      "trans-Cinnamic acid",
+      "trans-Cinnamic acid"
+    ],
+    [
+      "Proteins",
+      "Km (μM)",
+      "kcat (min⁻¹)",
+      "kcat/Km (M⁻¹·min⁻¹·×10³)",
+      "h"
+    ],
+    [
+      "CYP73A5<sup>Δ2–28</sup> & ATR2<sup>Δ2–77</sup>",
+      "68.83 ± 14.37",
+      "0.018 ± 0.002",
+      "0.26",
+      "1.49 ± 0.39"
+    ],
+    [
+      "heterodimer (I)",
+      "23.35 ± 5.88",
+      "0.198 ± 0.020",
+      "8.48",
+      "1.02 ± 0.23"
+    ],
+    [
+      "heterodimer (II)",
+      "125.62 ± 151.95",
+      "0.085 ± 0.035",
+      "0.68",
+      "0.78 ± 0.34"
+    ],
+    [
+      "heterodimer (III)",
+      "69.51 ± 20.16",
+      "0.020 ± 0.002",
+      "0.29",
+      "1.08 ± 0.24"
+    ],
+    [
+      "heterodimer (IV)",
+      "62.98 ± 15.05",
+      "0.881 ± 0.090",
+      "13.99",
+      "1.08 ± 0.15"
+    ]
+  ]
+}
+```
+
+第 11 页：
+```json
+{
+  "table_cells": [
+    [
+      "Article",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Roiban, G.-D. & Reetz, M. T.",
+      "Expanding the toolbox of organic chemists: directed evolution of P450 monooxygenases as catalysts in regio- and stereoselective oxidative hydroxylation.",
+      "Chem. Commun.",
+      "51",
+      "2208-2224 (2015)"
+    ],
+    [
+      "Zhang, R. K. et al.",
+      "Enzymatic assembly of carbon-carbon bonds via iron-catalysed sp² C-H functionalization.",
+      "Nature",
+      "565",
+      "67-72 (2019)"
+    ],
+    [
+      "Galarie, S., Thodey, K., Trenchard, I. J., Filsinginterrante, M. & Smolke, C. D.",
+      "Complete biosynthesis of opioids in yeast.",
+      "Science",
+      "349",
+      "1095-1100 (2015)"
+    ],
+    [
+      "Biggs, B. W. et al.",
+      "Overcoming heterologous protein protein interdependency to optimize P450-mediated Taxol precursor synthesis precursor overproduction in Escherichia coli.",
+      "Science",
+      "330",
+      "70-74 (2010)"
+    ],
+    [
+      "Chang, M. C., Eeach, R. A., Trieu, W., Ro, D. K. & Keasling, J. D.",
+      "Engineering Escherichia coli for production of functionalized terpenoids using plants P450s.",
+      "Nat. Chem. Biol.",
+      "3",
+      "274-277 (2007)"
+    ],
+    [
+      "Ro, D. K. et al.",
+      "Production of the antimalarial drug precursor artemisinic acid in engineered yeast.",
+      "Nature",
+      "436",
+      "528-532 (2013)"
+    ],
+    [
+      "Luo, X. et al.",
+      "Complete biosynthesis of cannabinoids and their unnatural analogues in yeast.",
+      "Nature",
+      "567",
+      "123-126 (2019)"
+    ],
+    [
+      "Hannemann, F., Bichet, A., Even, K. M. & Bernhardt, R.",
+      "Cytochrome P450 systems-biological variations of electron transport chains.",
+      "Trends Plant Sci.",
+      "20",
+      "20-32 (2015)"
+    ],
+    [
+      "Jennwein, S. et al.",
+      "Coexpression in yeast of Taxus cytochrome P450 reductase with cytochrome P450 oxygenases involved in Taxol biosynthesis.",
+      "Biotechnol. Bioproc. Bioeng.",
+      "59",
+      "588-598 (2005)"
+    ],
+    [
+      "Eberle, D., Ullmann, P., Werck-Reichhart, D. & Petersen, M.",
+      "cDNA cloning and functional characterisation of CYP98B14A and NADPH-cytochrome P450 reductase from Coleus blumei involved in rosmarinic acid biosynthesis.",
+      "Plant Mol. Biol.",
+      "69",
+      "239-253 (2009)"
+    ],
+    [
+      "Ducassou, L. et al.",
+      "Expression in yeast, new substrates, and constructs for characterization of a catalytically self-replicating enzyme.",
+      "Biochem. Biophys. Acta",
+      "1850",
+      "1426-1437 (2015)"
+    ],
+    [
+      "Crotesau, R., Ketchum, R.E., Long, R.M., Kaspera, R. & Wildung, M.R.",
+      "Taxol biosynthesis and molecular genetics.",
+      "Phytochem. Rev.",
+      "5",
+      "75-97 (2006)"
+    ],
+    [
+      "Etting, H., Hamberger, B., Million-Rousseau, R. & Werck-Reichhart, D.",
+      "Cytochromes P450 in phenolic metabolism.",
+      "Phytochem. Rev.",
+      "5",
+      "239-270 (2006)"
+    ],
+
+
+第 12 页：
+```json
+{
+  "table_cells": [
+    [
+      "Author contributions",
+      "Y.L. (Yikui Li), J.L., W.K.C. and R.W.",
+      "Y.L. (Yikui Li), J.L., W.K.C., B.X. and R.W.",
+      "J.L. and Y.L. (Yang Li) performed experiments.",
+      "Y.L. (Yikui Li), J.L., W.K.C., B.X. and R.W. analyzed the data.",
+      "Y.L. (Yikui Li), J.L., W.K.C., B.X. and R.W. wrote the manuscript with editing from all authors.",
+      "R.W. supervised the research."
+    ]
+  ]
+}
+```
+

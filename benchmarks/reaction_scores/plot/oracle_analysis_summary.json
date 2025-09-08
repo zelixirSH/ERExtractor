@@ -1,0 +1,482 @@
+{
+  "CLEF": {
+    "dataset_name": "CLEF",
+    "total_samples": 873,
+    "models": [
+      "Image2InChI",
+      "DECIMER",
+      "MolScribe",
+      "MolScribe-P450"
+    ],
+    "model_performance": {
+      "Image2InChI": {
+        "validity": 0.7915234822451317,
+        "perfect_match": 0.13631156930126,
+        "inchikey_acc": 0.7709049255441008,
+        "tanimoto_sim": 0.6732971928197226,
+        "mcs_sim": 0.7206721880788748
+      },
+      "DECIMER": {
+        "validity": 0.981672394043528,
+        "perfect_match": 0.20847651775486828,
+        "inchikey_acc": 0.8969072164948454,
+        "tanimoto_sim": 0.9519817343344871,
+        "mcs_sim": 0.9733887596256283
+      },
+      "MolScribe": {
+        "validity": 0.995418098510882,
+        "perfect_match": 0.2600229095074456,
+        "inchikey_acc": 0.9736540664375716,
+        "tanimoto_sim": 0.988850019273028,
+        "mcs_sim": 0.9929620041707858
+      },
+      "MolScribe-P450": {
+        "validity": 1.0,
+        "perfect_match": 0.2565864833906071,
+        "inchikey_acc": 0.9759450171821306,
+        "tanimoto_sim": 0.9918350994821146,
+        "mcs_sim": 0.9970505384241821
+      }
+    },
+    "oracle_performance": {
+      "validity": 1.0,
+      "perfect_match": 0.2611683848797251,
+      "inchikey_acc": 0.9873997709049256,
+      "tanimoto_sim": 0.995535573432501,
+      "mcs_sim": 0.9978970797178777
+    },
+    "potential_improvement": {
+      "validity": {
+        "best_score": 1.0,
+        "oracle_score": 1.0,
+        "improvement": 0.0,
+        "improvement_pct": 0.0
+      },
+      "perfect_match": {
+        "best_score": 0.2600229095074456,
+        "oracle_score": 0.2611683848797251,
+        "improvement": 0.001145475372279492,
+        "improvement_pct": 0.44052863436123185
+      },
+      "inchikey_acc": {
+        "best_score": 0.9759450171821306,
+        "oracle_score": 0.9873997709049256,
+        "improvement": 0.01145475372279503,
+        "improvement_pct": 1.1737089201878006
+      },
+      "tanimoto_sim": {
+        "best_score": 0.9918350994821146,
+        "oracle_score": 0.995535573432501,
+        "improvement": 0.003700473950386418,
+        "improvement_pct": 0.3730936677194239
+      },
+      "mcs_sim": {
+        "best_score": 0.9970505384241821,
+        "oracle_score": 0.9978970797178777,
+        "improvement": 0.0008465412936955463,
+        "improvement_pct": 0.08490455208353705
+      }
+    },
+    "status": "success"
+  },
+  "chemdraw": {
+    "dataset_name": "chemdraw",
+    "total_samples": 5704,
+    "models": [
+      "Image2InChI",
+      "DECIMER",
+      "MolScribe",
+      "MolScribe-P450"
+    ],
+    "model_performance": {
+      "Image2InChI": {
+        "validity": 0.6221949509116409,
+        "perfect_match": 0.08485273492286115,
+        "inchikey_acc": 0.597124824684432,
+        "tanimoto_sim": 0.5205176755124319,
+        "mcs_sim": 0.5595559041013002
+      },
+      "DECIMER": {
+        "validity": 0.9989481065918654,
+        "perfect_match": 0.1667251051893408,
+        "inchikey_acc": 0.9805399719495091,
+        "tanimoto_sim": 0.9941704155073142,
+        "mcs_sim": 0.995559235601165
+      },
+      "MolScribe": {
+        "validity": 0.9891304347826086,
+        "perfect_match": 0.16304347826086957,
+        "inchikey_acc": 0.9512622720897616,
+        "tanimoto_sim": 0.9789845983225539,
+        "mcs_sim": 0.9814794146542806
+      },
+      "MolScribe-P450": {
+        "validity": 0.9814165497896213,
+        "perfect_match": 0.16129032258064516,
+        "inchikey_acc": 0.9467040673211781,
+        "tanimoto_sim": 0.973253468159266,
+        "mcs_sim": 0.97472970525049
+      }
+    },
+    "oracle_performance": {
+      "validity": 1.0,
+      "perfect_match": 0.16815711029282834,
+      "inchikey_acc": 0.9900052603892688,
+      "tanimoto_sim": 0.99810109513545,
+      "mcs_sim": 0.9971678830094801
+    },
+    "potential_improvement": {
+      "validity": {
+        "best_score": 0.9989481065918654,
+        "oracle_score": 1.0,
+        "improvement": 0.0010518934081346076,
+        "improvement_pct": 0.10530010530010184
+      },
+      "perfect_match": {
+        "best_score": 0.1667251051893408,
+        "oracle_score": 0.16815711029282834,
+        "improvement": 0.001432005103487538,
+        "improvement_pct": 0.8589019043420524
+      },
+      "inchikey_acc": {
+        "best_score": 0.9805399719495091,
+        "oracle_score": 0.9900052603892688,
+        "improvement": 0.00946528843975969,
+        "improvement_pct": 0.9653138791415925
+      },
+      "tanimoto_sim": {
+        "best_score": 0.9941704155073142,
+        "oracle_score": 0.99810109513545,
+        "improvement": 0.003930679628135758,
+        "improvement_pct": 0.39537282208603797
+      },
+      "mcs_sim": {
+        "best_score": 0.995559235601165,
+        "oracle_score": 0.9971678830094801,
+        "improvement": 0.0016086474083151225,
+        "improvement_pct": 0.16158228971114375
+      }
+    },
+    "status": "success"
+  },
+  "acs": {
+    "dataset_name": "acs",
+    "total_samples": 268,
+    "models": [
+      "Image2InChI",
+      "DECIMER",
+      "MolScribe",
+      "MolScribe-P450"
+    ],
+    "model_performance": {
+      "Image2InChI": {
+        "validity": 0.2537313432835821,
+        "perfect_match": 0.048507462686567165,
+        "inchikey_acc": 0.15298507462686567,
+        "tanimoto_sim": 0.19215068917039846,
+        "mcs_sim": 0.23069327778285306
+      },
+      "DECIMER": {
+        "validity": 0.9738805970149254,
+        "perfect_match": 0.10820895522388059,
+        "inchikey_acc": 0.47388059701492535,
+        "tanimoto_sim": 0.7408727030385633,
+        "mcs_sim": 0.8610526083955385
+      },
+      "MolScribe": {
+        "validity": 0.9701492537313433,
+        "perfect_match": 0.23880597014925373,
+        "inchikey_acc": 0.753731343283582,
+        "tanimoto_sim": 0.8826087688214063,
+        "mcs_sim": 0.935119395954062
+      },
+      "MolScribe-P450": {
+        "validity": 0.9589552238805971,
+        "perfect_match": 0.2537313432835821,
+        "inchikey_acc": 0.8059701492537313,
+        "tanimoto_sim": 0.8870846148120458,
+        "mcs_sim": 0.9253707661636996
+      }
+    },
+    "oracle_performance": {
+      "validity": 1.0,
+      "perfect_match": 0.27715355805243447,
+      "inchikey_acc": 0.8764044943820225,
+      "tanimoto_sim": 0.9474251928881624,
+      "mcs_sim": 0.984804839522631
+    },
+    "potential_improvement": {
+      "validity": {
+        "best_score": 0.9738805970149254,
+        "oracle_score": 1.0,
+        "improvement": 0.026119402985074647,
+        "improvement_pct": 2.681992337164753
+      },
+      "perfect_match": {
+        "best_score": 0.2537313432835821,
+        "oracle_score": 0.27715355805243447,
+        "improvement": 0.023422214768852367,
+        "improvement_pct": 9.231108173606522
+      },
+      "inchikey_acc": {
+        "best_score": 0.8059701492537313,
+        "oracle_score": 0.8764044943820225,
+        "improvement": 0.07043434512829116,
+        "improvement_pct": 8.739076154806497
+      },
+      "tanimoto_sim": {
+        "best_score": 0.8870846148120458,
+        "oracle_score": 0.9474251928881624,
+        "improvement": 0.06034057807611659,
+        "improvement_pct": 6.802122037580537
+      },
+      "mcs_sim": {
+        "best_score": 0.935119395954062,
+        "oracle_score": 0.984804839522631,
+        "improvement": 0.049685443568568965,
+        "improvement_pct": 5.313272699030806
+      }
+    },
+    "status": "success"
+  },
+  "USPTO": {
+    "dataset_name": "USPTO",
+    "total_samples": 5633,
+    "models": [
+      "Image2InChI",
+      "DECIMER",
+      "MolScribe",
+      "MolScribe-P450"
+    ],
+    "model_performance": {
+      "Image2InChI": {
+        "validity": 0.8368542517308717,
+        "perfect_match": 0.11769927214628084,
+        "inchikey_acc": 0.8198118231848038,
+        "tanimoto_sim": 0.7086376773682976,
+        "mcs_sim": 0.7571195583954791
+      },
+      "DECIMER": {
+        "validity": 0.9824249955618676,
+        "perfect_match": 0.09941416651872892,
+        "inchikey_acc": 0.6989170956861352,
+        "tanimoto_sim": 0.8682436787165507,
+        "mcs_sim": 0.9439585618877104
+      },
+      "MolScribe": {
+        "validity": 0.9881383855024711,
+        "perfect_match": 0.17331136738056013,
+        "inchikey_acc": 0.943986820428336,
+        "tanimoto_sim": 0.9786084816721583,
+        "mcs_sim": 0.9836847198543031
+      },
+      "MolScribe-P450": {
+        "validity": 0.9886383809692881,
+        "perfect_match": 0.15693236286170778,
+        "inchikey_acc": 0.9470974613882478,
+        "tanimoto_sim": 0.9775515297099698,
+        "mcs_sim": 0.9826364115214921
+      }
+    },
+    "oracle_performance": {
+      "validity": 1.0,
+      "perfect_match": 0.1656005685856432,
+      "inchikey_acc": 0.9854299928926794,
+      "tanimoto_sim": 0.9958805284201824,
+      "mcs_sim": 0.9968815102662562
+    },
+    "potential_improvement": {
+      "validity": {
+        "best_score": 0.9886383809692881,
+        "oracle_score": 1.0,
+        "improvement": 0.011361619030711867,
+        "improvement_pct": 1.149218890285508
+      },
+      "perfect_match": {
+        "best_score": 0.17331136738056013,
+        "oracle_score": 0.1656005685856432,
+        "improvement": -0.007710798794916929,
+        "improvement_pct": -4.449101586040472
+      },
+      "inchikey_acc": {
+        "best_score": 0.9470974613882478,
+        "oracle_score": 0.9854299928926794,
+        "improvement": 0.03833253150443161,
+        "improvement_pct": 4.047369258940268
+      },
+      "tanimoto_sim": {
+        "best_score": 0.9786084816721583,
+        "oracle_score": 0.9958805284201824,
+        "improvement": 0.017272046748024072,
+        "improvement_pct": 1.764959845689376
+      },
+      "mcs_sim": {
+        "best_score": 0.9836847198543031,
+        "oracle_score": 0.9968815102662562,
+        "improvement": 0.013196790411953097,
+        "improvement_pct": 1.3415670840050986
+      }
+    },
+    "status": "success"
+  },
+  "indigo": {
+    "dataset_name": "indigo",
+    "total_samples": 5704,
+    "models": [
+      "Image2InChI",
+      "DECIMER",
+      "MolScribe",
+      "MolScribe-P450"
+    ],
+    "model_performance": {
+      "Image2InChI": {
+        "validity": 0.7491234221598878,
+        "perfect_match": 0.1002805049088359,
+        "inchikey_acc": 0.7365007012622721,
+        "tanimoto_sim": 0.6350566744740541,
+        "mcs_sim": 0.6780589666406299
+      },
+      "DECIMER": {
+        "validity": 1.0,
+        "perfect_match": 0.16760168302945302,
+        "inchikey_acc": 0.9905329593267882,
+        "tanimoto_sim": 0.9980626754870965,
+        "mcs_sim": 0.9973036192425323
+      },
+      "MolScribe": {
+        "validity": 0.9926367461430575,
+        "perfect_match": 0.1644460028050491,
+        "inchikey_acc": 0.9814165497896213,
+        "tanimoto_sim": 0.9902521186752777,
+        "mcs_sim": 0.9899842887217419
+      },
+      "MolScribe-P450": {
+        "validity": 0.9865007012622721,
+        "perfect_match": 0.1644460028050491,
+        "inchikey_acc": 0.9751051893408135,
+        "tanimoto_sim": 0.9838700833018831,
+        "mcs_sim": 0.98311390877058
+      }
+    },
+    "oracle_performance": {
+      "validity": 1.0,
+      "perfect_match": 0.16830294530154277,
+      "inchikey_acc": 0.9985974754558204,
+      "tanimoto_sim": 0.9997603102555377,
+      "mcs_sim": 0.9977510081729304
+    },
+    "potential_improvement": {
+      "validity": {
+        "best_score": 1.0,
+        "oracle_score": 1.0,
+        "improvement": 0.0,
+        "improvement_pct": 0.0
+      },
+      "perfect_match": {
+        "best_score": 0.16760168302945302,
+        "oracle_score": 0.16830294530154277,
+        "improvement": 0.0007012622720897477,
+        "improvement_pct": 0.4184100418409959
+      },
+      "inchikey_acc": {
+        "best_score": 0.9905329593267882,
+        "oracle_score": 0.9985974754558204,
+        "improvement": 0.008064516129032251,
+        "improvement_pct": 0.8141592920353975
+      },
+      "tanimoto_sim": {
+        "best_score": 0.9980626754870965,
+        "oracle_score": 0.9997603102555377,
+        "improvement": 0.001697634768441203,
+        "improvement_pct": 0.17009300218673
+      },
+      "mcs_sim": {
+        "best_score": 0.9973036192425323,
+        "oracle_score": 0.9977510081729304,
+        "improvement": 0.0004473889303980849,
+        "improvement_pct": 0.04485985228228529
+      }
+    },
+    "status": "success"
+  },
+  "UOB": {
+    "dataset_name": "UOB",
+    "total_samples": 5740,
+    "models": [
+      "Image2InChI",
+      "DECIMER",
+      "MolScribe",
+      "MolScribe-P450"
+    ],
+    "model_performance": {
+      "Image2InChI": {
+        "validity": 0.9869337979094077,
+        "perfect_match": 0.32142857142857145,
+        "inchikey_acc": 0.9621951219512195,
+        "tanimoto_sim": 0.9845399489015151,
+        "mcs_sim": 0.9844289728632832
+      },
+      "DECIMER": {
+        "validity": 1.0,
+        "perfect_match": 0.3073170731707317,
+        "inchikey_acc": 0.9543554006968641,
+        "tanimoto_sim": 0.9504680286363376,
+        "mcs_sim": 0.9830771424694307
+      },
+      "MolScribe": {
+        "validity": 0.998780487804878,
+        "perfect_match": 0.317595818815331,
+        "inchikey_acc": 0.9667247386759582,
+        "tanimoto_sim": 0.9483134016941237,
+        "mcs_sim": 0.9815091315840379
+      },
+      "MolScribe-P450": {
+        "validity": 0.9956445993031359,
+        "perfect_match": 0.31794425087108014,
+        "inchikey_acc": 0.9628919860627178,
+        "tanimoto_sim": 0.9456731025725165,
+        "mcs_sim": 0.9783605269234213
+      }
+    },
+    "oracle_performance": {
+      "validity": 1.0,
+      "perfect_match": 0.3329268292682927,
+      "inchikey_acc": 0.9968641114982578,
+      "tanimoto_sim": 0.9967749737254072,
+      "mcs_sim": 0.9965919104564727
+    },
+    "potential_improvement": {
+      "validity": {
+        "best_score": 1.0,
+        "oracle_score": 1.0,
+        "improvement": 0.0,
+        "improvement_pct": 0.0
+      },
+      "perfect_match": {
+        "best_score": 0.32142857142857145,
+        "oracle_score": 0.3329268292682927,
+        "improvement": 0.011498257839721249,
+        "improvement_pct": 3.5772357723577217
+      },
+      "inchikey_acc": {
+        "best_score": 0.9667247386759582,
+        "oracle_score": 0.9968641114982578,
+        "improvement": 0.030139372822299615,
+        "improvement_pct": 3.117678861056042
+      },
+      "tanimoto_sim": {
+        "best_score": 0.9845399489015151,
+        "oracle_score": 0.9967749737254072,
+        "improvement": 0.01223502482389216,
+        "improvement_pct": 1.2427149185305477
+      },
+      "mcs_sim": {
+        "best_score": 0.9844289728632832,
+        "oracle_score": 0.9965919104564727,
+        "improvement": 0.012162937593189427,
+        "improvement_pct": 1.2355322657573393
+      }
+    },
+    "status": "success"
+  }
+}

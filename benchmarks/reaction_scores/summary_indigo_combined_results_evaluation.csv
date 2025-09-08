@@ -1,0 +1,5 @@
+model,sample_count,validity,perfect_match,inchikey_acc,tanimoto_sim,mcs_sim,levenshtein_sim
+DECIMER,5704,1.0,0.1676,0.9905,0.9981,0.9973,0.9976
+Image2InChI,5704,0.7491,0.1003,0.7365,0.6351,0.6781,0.714
+MolScribe,5704,0.9926,0.1644,0.9814,0.9903,0.99,0.9891
+MolScribe-P450,5704,0.9865,0.1644,0.9751,0.9839,0.9831,0.983

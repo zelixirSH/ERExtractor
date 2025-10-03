@@ -1,4 +1,4 @@
-# <img width="958" height="952" alt="image" src="https://github.com/user-attachments/assets/0d211e4e-d4f8-496c-9f7f-c15b2e4ee23f" />: Automated Multimodal Extraction of Enzyme-Catalyzed Reaction Data
+# zERExtractor: Automated Multimodal Extraction of Enzyme-Catalyzed Reaction Data
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bb5d4e69-fa2b-4f0e-9fe8-704254898981" alt="zERExtractor Overview" width="800"/>

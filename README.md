@@ -1,12 +1,12 @@
-# ERExtractor: Automated Multimodal Extraction of Enzyme-Catalyzed Reaction Data
+# <img width="958" height="952" alt="image" src="https://github.com/user-attachments/assets/0d211e4e-d4f8-496c-9f7f-c15b2e4ee23f" />: Automated Multimodal Extraction of Enzyme-Catalyzed Reaction Data
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bb5d4e69-fa2b-4f0e-9fe8-704254898981" alt="ERExtractor Overview" width="800"/>
+  <img src="https://github.com/user-attachments/assets/bb5d4e69-fa2b-4f0e-9fe8-704254898981" alt="zERExtractor Overview" width="800"/>
 </p>
 
 
 ## 📌 Introduction
-This repository contains the official implementation of **ERExtractor**, an automated and extensible platform for multimodal extraction of enzyme-catalyzed reaction data from scientific literature.  
+This repository contains the official implementation of **zERExtractor**, an automated and extensible platform for multimodal extraction of enzyme-catalyzed reaction data from scientific literature.  
 The system integrates **tables, molecular diagrams, enzyme sequences, and experimental conditions** into structured, machine-readable datasets for downstream AI-driven modeling.
 
 ## 🚀 Features
@@ -32,7 +32,7 @@ The system integrates **tables, molecular diagrams, enzyme sequences, and experi
 <td>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/92745d5b-474f-47c8-a105-45d8cc2b69e8" alt="ERExtractor Overview" width="600"/>
+  <img src="https://github.com/user-attachments/assets/92745d5b-474f-47c8-a105-45d8cc2b69e8" alt="zERExtractor Overview" width="600"/>
 </p>
 </td>
 </tr>
@@ -45,14 +45,14 @@ The system integrates **tables, molecular diagrams, enzyme sequences, and experi
 <!-- ## 📂 Repository Structure -->
 
 ## ⚡ Quick Start
-You can explore **ERExtractor** directly through our online platform:  
-🔗 [ERExtractor Platform](https://zpaper.zelixir.com/)
+You can explore **zERExtractor** directly through our online platform:  
+🔗 [zERExtractor Platform](https://zpaper.zelixir.com/) based on zCloud platform by Shanghai Zelixir Biotech Co Ltd
 > 🛠️ The source code will be released upon the acceptance and publication of our paper.  
 
 ## 🌐 Links
 - 📄 [Preprint on arXiv](https://arxiv.org/abs/2508.09995)
 - 💻 [Project Website](https://zpaper.zelixir.com/)
-- 📦 [Dataset & Results on GitHub Releases](https://github.com/AIForgeRyan/ERExtractor/releases)
+- 📦 [Dataset & Results on GitHub Releases](https://github.com/zelixirSH/ERExtractor/releases)
 
 ## 📬 Contact
 Ryan（CAS）

@@ -57,6 +57,7 @@ You can explore **zERExtractor** directly through our online platform:
 ## 📬 Contact
 Ryan（CAS）
 📧 ryan5zh5@gmail.com
+📧 contact@zelixir.com
 
 ## 📖 Citation
 If you find this work useful, please cite:
